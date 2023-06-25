@@ -73,6 +73,11 @@
 
 * Polyglots ZIP x PDF: https://github.com/perfaram/pdf-zip-nes-polyglot
 * Grobid PDF->Structure
+  * https://grobid.readthedocs.io/en/latest/Grobid-docker/
+* ChatGPT
+  * https://larevueia.fr/tutoriel-utiliser-lapi-chatgpt-avec-python/
+
+
 
 
 # 8. Last page

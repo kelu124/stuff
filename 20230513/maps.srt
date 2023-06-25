@@ -1,0 +1,5484 @@
+1
+00:00:00,300 --> 00:00:04,170
+[Musique]
+
+2
+00:00:08,420 --> 00:00:10,320
+bonsoir à toutes et à tous on se
+
+3
+00:00:10,320 --> 00:00:11,340
+retrouve pour un nouveau lundi soir
+
+4
+00:00:11,340 --> 00:00:12,420
+consacré à la géographie
+
+5
+00:00:12,420 --> 00:00:14,360
+particulièrement à la cartographie
+
+6
+00:00:14,360 --> 00:00:16,500
+notamment à travers un ouvrage qui
+
+7
+00:00:16,500 --> 00:00:18,420
+s'appelle ceci n'est pas un atlas la
+
+8
+00:00:18,420 --> 00:00:20,220
+cartographie comme outil de luth avec
+
+9
+00:00:20,220 --> 00:00:23,699
+neptis vert qui a qui a dirigé dirigé la
+
+10
+00:00:23,699 --> 00:00:24,840
+publication de l'ouvrage et qui a aussi
+
+11
+00:00:24,840 --> 00:00:26,939
+participé neptis c'est pas votre
+
+12
+00:00:26,939 --> 00:00:27,779
+première ouvrage vous avez déjà
+
+13
+00:00:27,779 --> 00:00:29,820
+notamment publié un ouvrage qui portait
+
+14
+00:00:29,820 --> 00:00:31,579
+sur la cartographie radicale
+
+15
+00:00:31,579 --> 00:00:34,579
+cartographie
+
+16
+00:00:35,540 --> 00:00:39,800
+2021 d'accord et celui-là
+
+17
+00:00:41,300 --> 00:00:45,320
+en février si je me trompe pas c'est ça
+
+18
+00:00:45,320 --> 00:00:46,940
+et
+
+19
+00:00:46,940 --> 00:00:48,780
+je pense que le mieux pour être votre
+
+20
+00:00:48,780 --> 00:00:49,860
+ouvrage c'est quand même vous citer à
+
+21
+00:00:49,860 --> 00:00:51,059
+l'introduction pour qu'un peu les gens
+
+22
+00:00:51,059 --> 00:00:53,160
+voient ce que c'est que la cartographie
+
+23
+00:00:53,160 --> 00:00:55,260
+quel est son utilité et qu'elle est
+
+24
+00:00:55,260 --> 00:00:57,180
+aussi la possibilité d'utiliser des
+
+25
+00:00:57,180 --> 00:00:58,559
+processus de manipulation pour parfois
+
+26
+00:00:58,559 --> 00:01:00,660
+faire paraître ou plutôt ne pas faire
+
+27
+00:01:00,660 --> 00:01:02,399
+apparaître certaines informations
+
+28
+00:01:02,399 --> 00:01:04,440
+donc je vous cite nous nous racontons
+
+29
+00:01:04,440 --> 00:01:05,939
+des histoires pour nous souvenir pour en
+
+30
+00:01:05,939 --> 00:01:07,260
+tirer des leçons ou pour nous faire peur
+
+31
+00:01:07,260 --> 00:01:09,360
+au coin du feu ces intentions embarquées
+
+32
+00:01:09,360 --> 00:01:11,040
+cousues au sein même de la narration
+
+33
+00:01:11,040 --> 00:01:13,020
+nous pouvons les appeler des ferfères
+
+34
+00:01:13,020 --> 00:01:15,299
+tous les récits sont composés qu'il
+
+35
+00:01:15,299 --> 00:01:16,979
+s'agisse de faire peur faire rire faire
+
+36
+00:01:16,979 --> 00:01:18,320
+pleurer faire sa voix faire comprendre
+
+37
+00:01:18,320 --> 00:01:20,520
+il répondent aux besoins de créer du
+
+38
+00:01:20,520 --> 00:01:22,080
+lien de nourrir les relations humaines
+
+39
+00:01:22,080 --> 00:01:23,820
+ces mécanismes sont socialement codés
+
+40
+00:01:23,820 --> 00:01:25,920
+convenus et les personnes en présence en
+
+41
+00:01:25,920 --> 00:01:27,540
+connaissent les règles or la puissance
+
+42
+00:01:27,540 --> 00:01:29,880
+des récits et la capacité à jouer de
+
+43
+00:01:29,880 --> 00:01:31,799
+leur code peuvent permettre à celles et
+
+44
+00:01:31,799 --> 00:01:32,939
+ceux qui les maîtrisent d'en abuser
+
+45
+00:01:32,939 --> 00:01:34,740
+notamment parce que ces récits
+
+46
+00:01:34,740 --> 00:01:35,640
+dissimulent les intentions qui les
+
+47
+00:01:35,640 --> 00:01:38,040
+composent les exemples les plus évidents
+
+48
+00:01:38,040 --> 00:01:40,500
+relèvent de l'art du storytelling sont
+
+49
+00:01:40,500 --> 00:01:42,780
+la communication commerciale le faire
+
+50
+00:01:42,780 --> 00:01:44,820
+acheter et la communication politique le
+
+51
+00:01:44,820 --> 00:01:47,100
+faire voter on est devenu maître en
+
+52
+00:01:47,100 --> 00:01:48,600
+dissimulation des intentions et en
+
+53
+00:01:48,600 --> 00:01:50,579
+captation de nos désirs et croyances ils
+
+54
+00:01:50,579 --> 00:01:52,200
+vont notamment imbriquer des ferfères
+
+55
+00:01:52,200 --> 00:01:54,119
+sur le mode des poupées russes faire
+
+56
+00:01:54,119 --> 00:01:55,320
+peur dans le but de vous faire voter
+
+57
+00:01:55,320 --> 00:01:57,540
+faire saliver pour vous faire consommer
+
+58
+00:01:57,540 --> 00:02:00,600
+etc donc comme introduction moi
+
+59
+00:02:00,600 --> 00:02:01,619
+j'aimerais bien que vous puissiez nous
+
+60
+00:02:01,619 --> 00:02:03,600
+dire en pas la cartographie qui semble
+
+61
+00:02:03,600 --> 00:02:05,280
+être pourtant un support assez neutre et
+
+62
+00:02:05,280 --> 00:02:08,038
+non partisan et finalement absolument
+
+63
+00:02:08,038 --> 00:02:10,380
+politique et totalement partisans oui
+
+64
+00:02:10,380 --> 00:02:12,420
+oui alors vous citez la note de
+
+65
+00:02:12,420 --> 00:02:14,959
+l'éditeur Benjamin roux oui l'histoire
+
+66
+00:02:14,959 --> 00:02:18,840
+l'histoire nous propose nous raconte la
+
+67
+00:02:18,840 --> 00:02:20,459
+géographie nous raconte une histoire sur
+
+68
+00:02:20,459 --> 00:02:22,980
+le monde et comme toutes les images elle
+
+69
+00:02:22,980 --> 00:02:25,500
+est une image elle résulte d'un parti
+
+70
+00:02:25,500 --> 00:02:28,140
+pris il y a une intention sous-jacente à
+
+71
+00:02:28,140 --> 00:02:30,319
+sa création et
+
+72
+00:02:30,319 --> 00:02:33,959
+une grande naïveté concerne notre notre
+
+73
+00:02:33,959 --> 00:02:36,480
+exception de la carte on imagine que
+
+74
+00:02:36,480 --> 00:02:38,160
+c'est un objet scientifique et
+
+75
+00:02:38,160 --> 00:02:40,379
+aujourd'hui de plus nous sommes habitués
+
+76
+00:02:40,379 --> 00:02:42,780
+aux cartes numériques nous nous
+
+77
+00:02:42,780 --> 00:02:44,360
+imaginons qu'elles sont neutres
+
+78
+00:02:44,360 --> 00:02:46,560
+figuratives de l'espace ce qui n'est
+
+79
+00:02:46,560 --> 00:02:49,019
+jamais absolument jamais le cas si vous
+
+80
+00:02:49,019 --> 00:02:51,720
+prenez une image satellite que nous
+
+81
+00:02:51,720 --> 00:02:53,280
+considérons comme une photo de la
+
+82
+00:02:53,280 --> 00:02:54,599
+surface de la Terre elle sera toujours
+
+83
+00:02:54,599 --> 00:02:56,220
+retravaillée les couleurs ne seront
+
+84
+00:02:56,220 --> 00:02:58,260
+jamais fidèles les éléments gênants
+
+85
+00:02:58,260 --> 00:03:00,420
+pensez aux nuages pourront être gommés
+
+86
+00:03:00,420 --> 00:03:02,280
+etc donc
+
+87
+00:03:02,280 --> 00:03:04,140
+nous sommes devant un marché de dupes en
+
+88
+00:03:04,140 --> 00:03:07,440
+réalité voilà l'image du monde tel qu'il
+
+89
+00:03:07,440 --> 00:03:08,180
+est
+
+90
+00:03:08,180 --> 00:03:10,140
+n'oublions pas que le monde est une
+
+91
+00:03:10,140 --> 00:03:12,420
+sphère et que toute image sera déformée
+
+92
+00:03:12,420 --> 00:03:14,640
+et qu'il faut user de subterfuge c'est à
+
+93
+00:03:14,640 --> 00:03:16,500
+dire de projections différentes et il y
+
+94
+00:03:16,500 --> 00:03:19,019
+en a une quantité incroyable pour donner
+
+95
+00:03:19,019 --> 00:03:21,060
+une image non pas la plus fidèle
+
+96
+00:03:21,060 --> 00:03:23,780
+possible mais la plus la plus infidèle
+
+97
+00:03:23,780 --> 00:03:27,360
+la moins infidèle possible voilà donc
+
+98
+00:03:27,360 --> 00:03:29,879
+cette image nous voulons nous voulons la
+
+99
+00:03:29,879 --> 00:03:32,000
+croire
+
+100
+00:03:32,300 --> 00:03:35,040
+parce qu'elle est tellement pratique une
+
+101
+00:03:35,040 --> 00:03:36,840
+carte ça va nous permettre de nous
+
+102
+00:03:36,840 --> 00:03:38,519
+déplacer ça va nous permettre de nous
+
+103
+00:03:38,519 --> 00:03:40,620
+orienter de localiser des phénomènes
+
+104
+00:03:40,620 --> 00:03:42,980
+d'un peu mieux comprendre le monde et
+
+105
+00:03:42,980 --> 00:03:46,560
+cet apport pratique il est si grand que
+
+106
+00:03:46,560 --> 00:03:49,280
+nous acceptons volontiers de nous
+
+107
+00:03:49,280 --> 00:03:53,420
+nous prenons au jeu en réalité et
+
+108
+00:03:53,420 --> 00:03:56,459
+nous ne sommes pas en mesure même de
+
+109
+00:03:56,459 --> 00:03:58,319
+vérifier comment cette carte a été
+
+110
+00:03:58,319 --> 00:04:00,720
+construite toute carte émane de donner
+
+111
+00:04:00,720 --> 00:04:03,319
+qu'on a retravaillé que ce soit
+
+112
+00:04:03,319 --> 00:04:06,000
+qualitatif quantitative on peut on pense
+
+113
+00:04:06,000 --> 00:04:07,799
+même à toutes ces grandes bases de
+
+114
+00:04:07,799 --> 00:04:09,780
+données qui nourrissent les cartes nous
+
+115
+00:04:09,780 --> 00:04:11,340
+ne savons pas d'où elles viennent
+
+116
+00:04:11,340 --> 00:04:13,260
+comment elles ont été constituées par
+
+117
+00:04:13,260 --> 00:04:17,040
+exemple qui les a financés qui va opérer
+
+118
+00:04:17,040 --> 00:04:19,858
+la distribution de l'information qui va
+
+119
+00:04:19,858 --> 00:04:21,839
+construire ce paysage et nous sommes
+
+120
+00:04:21,839 --> 00:04:24,180
+pièce et moins liés face à ce phénomène
+
+121
+00:04:24,180 --> 00:04:26,880
+alors la contrecarographie elle va
+
+122
+00:04:26,880 --> 00:04:29,280
+justement utiliser ce pouvoir non pas
+
+123
+00:04:29,280 --> 00:04:31,860
+dans une visée de manipulation et il
+
+124
+00:04:31,860 --> 00:04:32,940
+faut faire attention la manipulation
+
+125
+00:04:32,940 --> 00:04:34,860
+elle peut être positive ou négative on
+
+126
+00:04:34,860 --> 00:04:37,160
+peut décider de manipuler
+
+127
+00:04:37,160 --> 00:04:39,660
+cette manipulation elle est implicite en
+
+128
+00:04:39,660 --> 00:04:42,840
+fait c'est ce récit sur le monde c'est
+
+129
+00:04:42,840 --> 00:04:44,580
+comme les contes de notre enfance nous
+
+130
+00:04:44,580 --> 00:04:45,660
+voulons y croire ils ont une fonction
+
+131
+00:04:45,660 --> 00:04:48,660
+sociale dans pour ce qui concerne la
+
+132
+00:04:48,660 --> 00:04:50,940
+carte ce sera d'asseoir un pouvoir un
+
+133
+00:04:50,940 --> 00:04:52,880
+certain pouvoir de le pérenniser
+
+134
+00:04:52,880 --> 00:04:55,320
+d'apporter une preuve une soi-disant
+
+135
+00:04:55,320 --> 00:04:56,940
+preuve d'une par exemple d'une
+
+136
+00:04:56,940 --> 00:04:58,860
+possession d'une portion du territoire
+
+137
+00:04:58,860 --> 00:05:00,900
+c'est pour ça qu'on après les traités de
+
+138
+00:05:00,900 --> 00:05:03,300
+paix on trace embrasse les frontières au
+
+139
+00:05:03,300 --> 00:05:05,699
+crayon sur du papier ça ne correspond
+
+140
+00:05:05,699 --> 00:05:08,000
+jamais à la réalité vécue sur le terrain
+
+141
+00:05:08,000 --> 00:05:11,400
+et pourtant ça a force de loi voilà et
+
+142
+00:05:11,400 --> 00:05:14,240
+la contre cartographie elle elle
+
+143
+00:05:14,240 --> 00:05:16,500
+opère de la même façon c'est une carte
+
+144
+00:05:16,500 --> 00:05:18,840
+comme les autres mais elle est beaucoup
+
+145
+00:05:18,840 --> 00:05:21,660
+moins dupe de son de son de sa jeunesse
+
+146
+00:05:21,660 --> 00:05:23,460
+c'est à dire qu'il y a des personnes qui
+
+147
+00:05:23,460 --> 00:05:24,960
+font les cartes ce sont les cartographes
+
+148
+00:05:24,960 --> 00:05:27,720
+ce sont peut-être des professionnels ce
+
+149
+00:05:27,720 --> 00:05:30,720
+sont aussi hier j'avais un atelier à la
+
+150
+00:05:30,720 --> 00:05:31,919
+petite Égypte à la librairie de la
+
+151
+00:05:31,919 --> 00:05:33,419
+petite Egypte d'où sont venus une
+
+152
+00:05:33,419 --> 00:05:34,620
+trentaine de personnes nous avons fait
+
+153
+00:05:34,620 --> 00:05:36,419
+des cartes on fait trois très belles
+
+154
+00:05:36,419 --> 00:05:37,740
+cartes ces personnes ne sont pas
+
+155
+00:05:37,740 --> 00:05:39,479
+géographes ni cartographes mais elles
+
+156
+00:05:39,479 --> 00:05:41,220
+ont réussi à spatialiser une information
+
+157
+00:05:41,220 --> 00:05:45,660
+sur leur vie c'était les migrants les
+
+158
+00:05:45,660 --> 00:05:48,660
+étudiants d'Afrique en Ukraine leur sort
+
+159
+00:05:48,660 --> 00:05:50,460
+aujourd'hui au moment de la guerre
+
+160
+00:05:50,460 --> 00:05:53,639
+c'était les femmes les femmes dans
+
+161
+00:05:53,639 --> 00:05:55,440
+l'espace public
+
+162
+00:05:55,440 --> 00:05:57,960
+urbains la proportion de femmes par
+
+163
+00:05:57,960 --> 00:06:00,360
+rapport à celle d'hommes sur la durée du
+
+164
+00:06:00,360 --> 00:06:02,300
+jour et
+
+165
+00:06:02,300 --> 00:06:05,280
+l'autre c'était tous ces alors Kraken
+
+166
+00:06:05,280 --> 00:06:06,900
+j'ai découvert le mot craquet toutes ces
+
+167
+00:06:06,900 --> 00:06:08,100
+toutes ces personnes en migration qui
+
+168
+00:06:08,100 --> 00:06:09,600
+sont à la rue qui prennent des drogues
+
+169
+00:06:09,600 --> 00:06:12,600
+comment constitue-t-elle notre paysage
+
+170
+00:06:12,600 --> 00:06:14,520
+urbain voilà donc sans être cartographe
+
+171
+00:06:14,520 --> 00:06:16,380
+c'est c'est participant fait
+
+172
+00:06:16,380 --> 00:06:18,300
+participants ont créé de grandes cartes
+
+173
+00:06:18,300 --> 00:06:21,120
+trois grandes cartes qui disent quelque
+
+174
+00:06:21,120 --> 00:06:22,740
+chose qui disent autre chose qui disent
+
+175
+00:06:22,740 --> 00:06:24,180
+autre chose sur le monde parce que c'est
+
+176
+00:06:24,180 --> 00:06:26,060
+leur propre
+
+177
+00:06:26,060 --> 00:06:28,800
+ressenti leur propre avis leur propre
+
+178
+00:06:28,800 --> 00:06:30,660
+vécu qui est entré dans cette carte et
+
+179
+00:06:30,660 --> 00:06:32,699
+on voit bien par peut-être la maladresse
+
+180
+00:06:32,699 --> 00:06:36,419
+de des productions que ce sont des non
+
+181
+00:06:36,419 --> 00:06:37,800
+cartographes que l'on produit mais ça a
+
+182
+00:06:37,800 --> 00:06:39,479
+tout autant de valeur qu'une qu'une
+
+183
+00:06:39,479 --> 00:06:40,979
+carte numérique donc ce qui est assez
+
+184
+00:06:40,979 --> 00:06:42,180
+intéressant c'est que vous proposer la
+
+185
+00:06:42,180 --> 00:06:43,800
+contre cartographie comme opposition à
+
+186
+00:06:43,800 --> 00:06:44,759
+la cartographie peut-être un peu
+
+187
+00:06:44,759 --> 00:06:46,440
+historique qui justement avait tendance
+
+188
+00:06:46,440 --> 00:06:49,319
+à être un peu au service notamment des
+
+189
+00:06:49,319 --> 00:06:50,940
+états on peut penser à la cartographie
+
+190
+00:06:50,940 --> 00:06:52,380
+militaire d'ailleurs je crois que c'est
+
+191
+00:06:52,380 --> 00:06:54,180
+si lacos qui s'est clasherographiste
+
+192
+00:06:54,180 --> 00:06:55,380
+sert d'abord à faire la guerre donc la
+
+193
+00:06:55,380 --> 00:06:56,280
+cartographie c'est un peu la
+
+194
+00:06:56,280 --> 00:06:58,139
+cartographie des plans de bataille c'est
+
+195
+00:06:58,139 --> 00:06:59,460
+la cartographie de l'État aussi
+
+196
+00:06:59,460 --> 00:07:00,900
+gestionnaire administratif qui a vouloir
+
+197
+00:07:00,900 --> 00:07:02,100
+un peu connaître
+
+198
+00:07:02,100 --> 00:07:03,900
+mettre ses frontières on peut penser à
+
+199
+00:07:03,900 --> 00:07:05,039
+cartographie maritime de
+
+200
+00:07:05,039 --> 00:07:07,020
+l'expansionnisme européen et on peut
+
+201
+00:07:07,020 --> 00:07:08,160
+aussi penser à la cartographie plus
+
+202
+00:07:08,160 --> 00:07:10,680
+moderne qui serait la cartographie il y
+
+203
+00:07:10,680 --> 00:07:11,880
+a un peu les cartes heuristiques ou la
+
+204
+00:07:11,880 --> 00:07:14,639
+le Mind Mapping qui va être aussi un peu
+
+205
+00:07:14,639 --> 00:07:16,500
+je sais pas comment dire mais le support
+
+206
+00:07:16,500 --> 00:07:18,780
+de prédilection des startupers et du
+
+207
+00:07:18,780 --> 00:07:21,000
+néolibéralisme entrepreneur etc et
+
+208
+00:07:21,000 --> 00:07:22,680
+finalement vous à travers la contre
+
+209
+00:07:22,680 --> 00:07:24,000
+cartographie ou proposée si une
+
+210
+00:07:24,000 --> 00:07:25,680
+hypothèse plutôt de cartographie
+
+211
+00:07:25,680 --> 00:07:28,880
+émancipatrice tout à fait donc on
+
+212
+00:07:28,880 --> 00:07:31,740
+réintroduit la pâte la présence des
+
+213
+00:07:31,740 --> 00:07:33,240
+personnes qui ont conçu la carte sur
+
+214
+00:07:33,240 --> 00:07:35,360
+l'objet lui-même et
+
+215
+00:07:35,360 --> 00:07:37,860
+ces cartes sont généralement réalisées
+
+216
+00:07:37,860 --> 00:07:40,080
+très souvent en tout cas de façon
+
+217
+00:07:40,080 --> 00:07:41,759
+collective c'est-à-dire que vous avez un
+
+218
+00:07:41,759 --> 00:07:43,199
+groupe de personnes qui ont une cause à
+
+219
+00:07:43,199 --> 00:07:45,840
+défendre qui se réunissent et élabore
+
+220
+00:07:45,840 --> 00:07:46,699
+ensemble
+
+221
+00:07:46,699 --> 00:07:49,080
+décide de la forme du contenu bien sûr
+
+222
+00:07:49,080 --> 00:07:52,259
+de la forme ce qui a des effets
+
+223
+00:07:52,259 --> 00:07:54,000
+absolument intéressants au niveau de la
+
+224
+00:07:54,000 --> 00:07:55,440
+prise de conscience de la problématique
+
+225
+00:07:55,440 --> 00:07:58,800
+de sa définition de la clarification des
+
+226
+00:07:58,800 --> 00:08:01,440
+enjeux et vont après synthétiser toutes
+
+227
+00:08:01,440 --> 00:08:03,360
+ces informations en une oeuvre globale
+
+228
+00:08:03,360 --> 00:08:06,180
+moi j'aime bien l'idée de Yosef boys de
+
+229
+00:08:06,180 --> 00:08:08,880
+l'artiste qui disait mais qui qui a
+
+230
+00:08:08,880 --> 00:08:10,580
+lancé le concept de
+
+231
+00:08:10,580 --> 00:08:15,060
+plastique de social c'est à dire de
+
+232
+00:08:15,060 --> 00:08:16,680
+structures sociales en créant une œuvre
+
+233
+00:08:16,680 --> 00:08:18,360
+collective on va fédérer des gens mais
+
+234
+00:08:18,360 --> 00:08:21,660
+on va aussi apporter apporter un plus la
+
+235
+00:08:21,660 --> 00:08:24,000
+société c'est-à-dire une prise en main
+
+236
+00:08:24,000 --> 00:08:26,460
+de votre propre destin de une prise de
+
+237
+00:08:26,460 --> 00:08:27,720
+conscience de votre rôle dans la société
+
+238
+00:08:27,720 --> 00:08:29,940
+est finalement c'est votre société voilà
+
+239
+00:08:29,940 --> 00:08:31,919
+ça c'est la dimension subversive de la
+
+240
+00:08:31,919 --> 00:08:33,958
+cartographie radicale comme qu'il ne
+
+241
+00:08:33,958 --> 00:08:34,860
+faut pas concevoir comme une
+
+242
+00:08:34,860 --> 00:08:37,860
+cartographie d'opposition ce serait
+
+243
+00:08:37,860 --> 00:08:39,539
+absolument réducteur c'est une
+
+244
+00:08:39,539 --> 00:08:41,120
+cartographie
+
+245
+00:08:41,120 --> 00:08:43,260
+différente c'est l'une des expressions
+
+246
+00:08:43,260 --> 00:08:44,820
+de la cartographie cette cartographie
+
+247
+00:08:44,820 --> 00:08:47,220
+traditionnelle elle est utile elle est
+
+248
+00:08:47,220 --> 00:08:48,899
+normée c'est sûr il faut connaître les
+
+249
+00:08:48,899 --> 00:08:50,100
+normes aussi pourquoi parce que nous
+
+250
+00:08:50,100 --> 00:08:51,839
+lisons une image une rotation de
+
+251
+00:08:51,839 --> 00:08:53,580
+représentation de l'espace toujours de
+
+252
+00:08:53,580 --> 00:08:55,620
+la même façon nous nous projetons dans
+
+253
+00:08:55,620 --> 00:08:57,180
+la carte nous avons cette vue zénitale
+
+254
+00:08:57,180 --> 00:09:00,060
+nous lisons les images en Occident en
+
+255
+00:09:00,060 --> 00:09:01,980
+tout cas de cette façon et
+
+256
+00:09:01,980 --> 00:09:03,360
+elles vont fonctionner de la même façon
+
+257
+00:09:03,360 --> 00:09:05,220
+absolument donc c'est une cartographie
+
+258
+00:09:05,220 --> 00:09:07,740
+partisane finalement partisane je dirais
+
+259
+00:09:07,740 --> 00:09:08,779
+engagé
+
+260
+00:09:08,779 --> 00:09:11,220
+partisane oui ça peut l'être aussi
+
+261
+00:09:11,220 --> 00:09:12,899
+également est-ce qu'il y a un manque un
+
+262
+00:09:12,899 --> 00:09:13,740
+peu peut-être d'approche ou
+
+263
+00:09:13,740 --> 00:09:15,120
+d'appréhension de ce qu'elle est la
+
+264
+00:09:15,120 --> 00:09:16,980
+géographie de la part de des gens
+
+265
+00:09:16,980 --> 00:09:19,260
+général mais c'est clair alors cette
+
+266
+00:09:19,260 --> 00:09:20,660
+idée que le
+
+267
+00:09:20,660 --> 00:09:23,300
+qu'on peut se spécialiser l'information
+
+268
+00:09:23,300 --> 00:09:25,200
+elle existe depuis longtemps dans la
+
+269
+00:09:25,200 --> 00:09:28,320
+recherche elle semble à présent se
+
+270
+00:09:28,320 --> 00:09:30,779
+disséminer absolument partout l'intérêt
+
+271
+00:09:30,779 --> 00:09:33,320
+pour les cartes est là c'est évident et
+
+272
+00:09:33,320 --> 00:09:35,580
+ce que je constate lors des ateliers
+
+273
+00:09:35,580 --> 00:09:38,640
+c'est que il y a très peu de confiance
+
+274
+00:09:38,640 --> 00:09:40,620
+en soi par rapport à ces projections
+
+275
+00:09:40,620 --> 00:09:43,740
+cette projection dans l'espace et par
+
+276
+00:09:43,740 --> 00:09:46,260
+rapport aussi à la mise au graphisme à
+
+277
+00:09:46,260 --> 00:09:48,720
+la mise en dessin tout simplement de ces
+
+278
+00:09:48,720 --> 00:09:50,700
+représentations mentales et il y a un
+
+279
+00:09:50,700 --> 00:09:52,620
+grand déficit à ce moment-là et c'est à
+
+280
+00:09:52,620 --> 00:09:56,160
+chaque fois le moment haha de c'est pas
+
+281
+00:09:56,160 --> 00:09:58,940
+français ça mais c'est pas grave le
+
+282
+00:09:58,940 --> 00:10:02,519
+l'émerveillement des ateliers quand les
+
+283
+00:10:02,519 --> 00:10:04,740
+gens réalisent que ah oui je peux je
+
+284
+00:10:04,740 --> 00:10:06,959
+peux c'est bien c'est intéressant et
+
+285
+00:10:06,959 --> 00:10:09,000
+c'est ma carte c'est une autre carte
+
+286
+00:10:09,000 --> 00:10:10,279
+vous pensez pas qu'on peut dire que
+
+287
+00:10:10,279 --> 00:10:12,180
+l'absence de conscience géographique
+
+288
+00:10:12,180 --> 00:10:13,620
+parfois c'est aussi un peu une absence
+
+289
+00:10:13,620 --> 00:10:15,360
+d'être au monde de la part des gens
+
+290
+00:10:15,360 --> 00:10:16,440
+parce que notamment enfin vous citez
+
+291
+00:10:16,440 --> 00:10:18,839
+Lacoste dont on parlait il disait qu'en
+
+292
+00:10:18,839 --> 00:10:22,019
+76 il nous mettait déjà en garde en
+
+293
+00:10:22,019 --> 00:10:23,279
+disant je le cite pour le développement
+
+294
+00:10:23,279 --> 00:10:25,019
+d'une société démocratique il est grave
+
+295
+00:10:25,019 --> 00:10:26,339
+que ce soit seulement la minorité au
+
+296
+00:10:26,339 --> 00:10:27,480
+pouvoir qui sache comment la situation
+
+297
+00:10:27,480 --> 00:10:29,580
+se transforme concrètement dans les
+
+298
+00:10:29,580 --> 00:10:31,080
+multiples parties du territoire et
+
+299
+00:10:31,080 --> 00:10:32,339
+comment on peut intervenir dans ces
+
+300
+00:10:32,339 --> 00:10:34,320
+changements parce que bien sûr il y a
+
+301
+00:10:34,320 --> 00:10:35,880
+deux choses il y a une confiscation de
+
+302
+00:10:35,880 --> 00:10:38,100
+l'information bien sûr comme dit elle
+
+303
+00:10:38,100 --> 00:10:39,779
+est implicite voilà c'est la première
+
+304
+00:10:39,779 --> 00:10:42,240
+dimension si vous choisissez de dire
+
+305
+00:10:42,240 --> 00:10:44,760
+quelque chose ce sera en négligeant tout
+
+306
+00:10:44,760 --> 00:10:46,140
+ce que vous auriez pu dire à côté donc
+
+307
+00:10:46,140 --> 00:10:48,959
+dans toute communication il y a non pas
+
+308
+00:10:48,959 --> 00:10:50,720
+une dissimulation mais il y a une
+
+309
+00:10:50,720 --> 00:10:53,220
+invisibilisation de tout le reste mais
+
+310
+00:10:53,220 --> 00:10:55,500
+c'est aussi parfois une volonté de ne
+
+311
+00:10:55,500 --> 00:10:56,720
+pas
+
+312
+00:10:56,720 --> 00:10:59,100
+communiquer sur certaines problématiques
+
+313
+00:10:59,100 --> 00:11:01,860
+et c'est pour ça que les luttes donc des
+
+314
+00:11:01,860 --> 00:11:03,540
+il faut s'imaginer que dans les années
+
+315
+00:11:03,540 --> 00:11:06,600
+60 donc de surtout sur le continent
+
+316
+00:11:06,600 --> 00:11:10,260
+américain du Nord les Inuits au Canada
+
+317
+00:11:10,260 --> 00:11:13,560
+au sud au Brésil les peuples autochtones
+
+318
+00:11:13,560 --> 00:11:16,560
+ont commencé à produire des cartes ces
+
+319
+00:11:16,560 --> 00:11:18,360
+cartes elles leur servait à montrer leur
+
+320
+00:11:18,360 --> 00:11:20,820
+usage du territoire c'est à dire où je
+
+321
+00:11:20,820 --> 00:11:23,940
+pêche où je cueille ou je chasse ou je
+
+322
+00:11:23,940 --> 00:11:26,579
+transforme ces produits ça a été produit
+
+323
+00:11:26,579 --> 00:11:28,500
+devant les tribunaux et ça a pu leur
+
+324
+00:11:28,500 --> 00:11:30,120
+donner gain de cause parce qu'il ne faut
+
+325
+00:11:30,120 --> 00:11:32,100
+jamais oublier que la majorité de
+
+326
+00:11:32,100 --> 00:11:34,760
+l'humanité n'a pas de titre de propriété
+
+327
+00:11:34,760 --> 00:11:36,899
+surtout de l'espace plus large
+
+328
+00:11:36,899 --> 00:11:39,660
+nécessaire si s'il doit pour voir à
+
+329
+00:11:39,660 --> 00:11:42,660
+votre vie et et cette lutte elle se fait
+
+330
+00:11:42,660 --> 00:11:45,000
+avec les outils d'écolonisateurs elle se
+
+331
+00:11:45,000 --> 00:11:46,880
+fait avec les outils de
+
+332
+00:11:46,880 --> 00:11:49,740
+déréglementation internationales mais
+
+333
+00:11:49,740 --> 00:11:51,839
+occidentale avec ses représentations du
+
+334
+00:11:51,839 --> 00:11:53,760
+monde elles se font avec les outils qui
+
+335
+00:11:53,760 --> 00:11:55,500
+utilisaient oui par les grandes
+
+336
+00:11:55,500 --> 00:11:58,680
+multinationales pour délimiter le champ
+
+337
+00:11:58,680 --> 00:12:01,019
+qui sera dévoué à l'extraction minière
+
+338
+00:12:01,019 --> 00:12:04,079
+etc et euh et ça soulève une vraie
+
+339
+00:12:04,079 --> 00:12:05,279
+question au niveau de la cartographie
+
+340
+00:12:05,279 --> 00:12:06,839
+mais c'est représentations
+
+341
+00:12:06,839 --> 00:12:08,640
+cartographiques elles émanent de notre
+
+342
+00:12:08,640 --> 00:12:10,500
+perception occidentale du monde et
+
+343
+00:12:10,500 --> 00:12:12,600
+toutes les autres cultures qui n'ont pas
+
+344
+00:12:12,600 --> 00:12:13,519
+été
+
+345
+00:12:13,519 --> 00:12:16,440
+ces cultures impériales en tout cas ces
+
+346
+00:12:16,440 --> 00:12:18,600
+empires colonisateurs leur
+
+347
+00:12:18,600 --> 00:12:20,940
+représentation du monde peut et peu
+
+348
+00:12:20,940 --> 00:12:22,620
+mobilisée parce qu'elle ne peut pas être
+
+349
+00:12:22,620 --> 00:12:24,899
+produite comme outil de preuve en tout
+
+350
+00:12:24,899 --> 00:12:25,980
+cas pas sous cette forme parce qu'il
+
+351
+00:12:25,980 --> 00:12:27,540
+faut pouvoir je crois que c'est bel
+
+352
+00:12:27,540 --> 00:12:30,360
+looks qui dit il faut utiliser la langue
+
+353
+00:12:30,360 --> 00:12:33,360
+de l'ennemi pour le retourner contre
+
+354
+00:12:33,360 --> 00:12:34,980
+elle-même c'est-à-dire on va l'utiliser
+
+355
+00:12:34,980 --> 00:12:38,060
+pour produire des preuves et
+
+356
+00:12:38,060 --> 00:12:40,620
+s'ouvre tout tout ce champ de
+
+357
+00:12:40,620 --> 00:12:41,959
+questionnement sur
+
+358
+00:12:41,959 --> 00:12:44,220
+qu'est-ce qu'une carte à quoi doit-elle
+
+359
+00:12:44,220 --> 00:12:45,500
+ressembler
+
+360
+00:12:45,500 --> 00:12:47,700
+est-elle est-elle reflète-t-elle
+
+361
+00:12:47,700 --> 00:12:49,440
+vraiment ce que moi je ressens ce que
+
+362
+00:12:49,440 --> 00:12:51,600
+moi je vis et les enjeux qui me
+
+363
+00:12:51,600 --> 00:12:53,700
+concernent et là je pense que c'est
+
+364
+00:12:53,700 --> 00:12:55,500
+quelque chose qui qui a été apporté car
+
+365
+00:12:55,500 --> 00:12:57,680
+par la cartographie
+
+366
+00:12:57,680 --> 00:13:00,420
+critique radicale ou contre cartographie
+
+367
+00:13:00,420 --> 00:13:03,060
+c'est à dire vous questionner aussi nous
+
+368
+00:13:03,060 --> 00:13:04,920
+nous les personnes qui produisons des
+
+369
+00:13:04,920 --> 00:13:06,540
+cartes souvent des chercheuses des
+
+370
+00:13:06,540 --> 00:13:08,100
+groupes de chercheuses de chercheurs qui
+
+371
+00:13:08,100 --> 00:13:10,440
+sont géographes cartographes vont aller
+
+372
+00:13:10,440 --> 00:13:15,860
+sur le terrain je pense à Dakar à Kibera
+
+373
+00:13:16,079 --> 00:13:17,399
+ideherabat ou des chercheurs travaillent
+
+374
+00:13:17,399 --> 00:13:18,959
+avec des populations habitants dans ce
+
+375
+00:13:18,959 --> 00:13:20,639
+qu'on appelle en France de façon très
+
+376
+00:13:20,639 --> 00:13:22,860
+méprisante les bidons villes qui sont en
+
+377
+00:13:22,860 --> 00:13:25,139
+fait des quartiers informels donc nous
+
+378
+00:13:25,139 --> 00:13:28,980
+avons plusieurs cartes sur ces quartiers
+
+379
+00:13:28,980 --> 00:13:30,600
+qui étaient soit considérés comme des
+
+380
+00:13:30,600 --> 00:13:33,120
+forêts qui sont généralement le gris ou
+
+381
+00:13:33,120 --> 00:13:34,800
+le blanc Descartes et qui soudain
+
+382
+00:13:34,800 --> 00:13:36,660
+prennent vie sous la main des personnes
+
+383
+00:13:36,660 --> 00:13:38,519
+qui habitent qui apprennent aussi à se
+
+384
+00:13:38,519 --> 00:13:40,860
+servir de GPS à géo référence et les
+
+385
+00:13:40,860 --> 00:13:42,779
+éléments et soudain on se rend compte
+
+386
+00:13:42,779 --> 00:13:44,279
+que quoi que ces quartiers sont pleins
+
+387
+00:13:44,279 --> 00:13:47,540
+de vie les municipalités ne
+
+388
+00:13:47,540 --> 00:13:49,560
+interviennent pas puisqu'elle n'existe
+
+389
+00:13:49,560 --> 00:13:51,060
+pas et c'est une façon de les faire
+
+390
+00:13:51,060 --> 00:13:53,779
+intervenir de les obliger à intervenir
+
+391
+00:13:53,779 --> 00:13:56,399
+et justement dans ces Barrio dans ces
+
+392
+00:13:56,399 --> 00:13:59,160
+quartiers parfois on préfère ne pas être
+
+393
+00:13:59,160 --> 00:14:02,220
+cartographié très très bonne une marque
+
+394
+00:14:02,220 --> 00:14:05,220
+oui effectivement donc dans le petit
+
+395
+00:14:05,220 --> 00:14:07,320
+guide que nous avons joint au livre qui
+
+396
+00:14:07,320 --> 00:14:09,480
+est le petit manuel de cartographie
+
+397
+00:14:09,480 --> 00:14:13,740
+collective et critique il y a toute une
+
+398
+00:14:13,740 --> 00:14:16,440
+il y a plusieurs chapitres enfin
+
+399
+00:14:16,440 --> 00:14:18,360
+plusieurs paragraphes dédiés à cette
+
+400
+00:14:18,360 --> 00:14:20,420
+idée tout le monde ne veut pas être
+
+401
+00:14:20,420 --> 00:14:22,260
+cartographié pourquoi parce que
+
+402
+00:14:22,260 --> 00:14:24,120
+l'accordéographie c'est justement cet
+
+403
+00:14:24,120 --> 00:14:25,800
+outil qui peut être utilisé pour la
+
+404
+00:14:25,800 --> 00:14:28,260
+répression pour montrer où vous êtes
+
+405
+00:14:28,260 --> 00:14:30,300
+allé où vous irez pour vous localiser
+
+406
+00:14:30,300 --> 00:14:32,519
+dans les favelas et l'exemple il est
+
+407
+00:14:32,519 --> 00:14:34,320
+dans le livre anglais donc dans la
+
+408
+00:14:34,320 --> 00:14:37,019
+version anglaise ceci n'est pas un atlas
+
+409
+00:14:37,019 --> 00:14:41,600
+des atlas qui est paru en 2018 où
+
+410
+00:14:41,600 --> 00:14:45,720
+on cite et quelqu'un d'une favelas je
+
+411
+00:14:45,720 --> 00:14:48,360
+pense que c'est un habitant qui dit mais
+
+412
+00:14:48,360 --> 00:14:50,220
+ou alors peut-être au Brésil je ne sais
+
+413
+00:14:50,220 --> 00:14:52,579
+plus dans la forêt
+
+414
+00:14:52,579 --> 00:14:55,800
+voilà ce sont les quatre sinawa qui est
+
+415
+00:14:55,800 --> 00:14:57,779
+une population autochtone qui dit mais
+
+416
+00:14:57,779 --> 00:14:59,459
+nous on se sent bien dans le blanc
+
+417
+00:14:59,459 --> 00:15:02,220
+Descartes on ne veut pas être vu on est
+
+418
+00:15:02,220 --> 00:15:06,120
+en sécurité donc nous mettons en gare si
+
+419
+00:15:06,120 --> 00:15:09,000
+l'on cartographie quelqu'un ou son lieu
+
+420
+00:15:09,000 --> 00:15:11,279
+de vie il faut toujours avoir son aval
+
+421
+00:15:11,279 --> 00:15:13,440
+pour après publier l'information
+
+422
+00:15:13,440 --> 00:15:16,500
+beaucoup de cartes critiques sont faites
+
+423
+00:15:16,500 --> 00:15:18,899
+dans un cadre restreint de personnes qui
+
+424
+00:15:18,899 --> 00:15:20,100
+vont se concerter autour d'une
+
+425
+00:15:20,100 --> 00:15:22,620
+problématique pour porter une lutte mais
+
+426
+00:15:22,620 --> 00:15:24,660
+non ne sont pas destinées à être publiés
+
+427
+00:15:24,660 --> 00:15:27,240
+donc oui l'outil est tellement fort
+
+428
+00:15:27,240 --> 00:15:30,060
+qu'il faut quelques précautions pour ne
+
+429
+00:15:30,060 --> 00:15:32,180
+pas
+
+430
+00:15:33,260 --> 00:15:35,760
+devenir outil de manipulation dans les
+
+431
+00:15:35,760 --> 00:15:38,420
+favelas par exemple
+
+432
+00:15:38,480 --> 00:15:41,699
+c'est Google c'est Google je crois qui
+
+433
+00:15:41,699 --> 00:15:45,600
+propose des c'est une citation venez
+
+434
+00:15:45,600 --> 00:15:47,760
+découvrir cet endroit je ne sais pas de
+
+435
+00:15:47,760 --> 00:15:49,139
+quelle favé là il s'agit mais venez
+
+436
+00:15:49,139 --> 00:15:51,060
+découvrir cet endroit merveilleux et
+
+437
+00:15:51,060 --> 00:15:53,399
+ayez une expérience extraordinaire et
+
+438
+00:15:53,399 --> 00:15:55,019
+quelque part ça favorise bien sûr le
+
+439
+00:15:55,019 --> 00:15:58,980
+tourisme de la misère allons voir ce zoo
+
+440
+00:15:58,980 --> 00:16:01,320
+humain là voilà donc oui oui il faut
+
+441
+00:16:01,320 --> 00:16:03,120
+être très très prudente comme avec tous
+
+442
+00:16:03,120 --> 00:16:04,740
+les outils tous les instruments qui
+
+443
+00:16:04,740 --> 00:16:06,839
+servent qui servent sur un plan
+
+444
+00:16:06,839 --> 00:16:08,519
+politique c'est à dire dans le sens qui
+
+445
+00:16:08,519 --> 00:16:10,880
+servent à la vie collective
+
+446
+00:16:10,880 --> 00:16:13,800
+quel que soit votre camp vous avez
+
+447
+00:16:13,800 --> 00:16:15,420
+mentionné que la cartographie peut
+
+448
+00:16:15,420 --> 00:16:17,820
+notamment servir pour pour un peu mettre
+
+449
+00:16:17,820 --> 00:16:18,959
+en valeur tout ce qui est extraction
+
+450
+00:16:18,959 --> 00:16:20,339
+minière vous avez parlé aussi l'Amérique
+
+451
+00:16:20,339 --> 00:16:22,320
+latine il y a un de vos collègues qui a
+
+452
+00:16:22,320 --> 00:16:23,639
+participé à l'ouvrage Mathieu Nouchet
+
+453
+00:16:23,639 --> 00:16:26,100
+qui a réalisé une cartographie notamment
+
+454
+00:16:26,100 --> 00:16:27,600
+sur extension minière en Guyane
+
+455
+00:16:27,600 --> 00:16:29,339
+française et là c'est intéressant pour
+
+456
+00:16:29,339 --> 00:16:30,300
+que ça pose la question de l'échelle
+
+457
+00:16:30,300 --> 00:16:32,100
+notamment il met en valeur que il y
+
+458
+00:16:32,100 --> 00:16:34,500
+avait une sorte d'É très localisé sur la
+
+459
+00:16:34,500 --> 00:16:36,180
+montagne d'or et tout le focus
+
+460
+00:16:36,180 --> 00:16:39,180
+médiatique était mis sur cette fin cette
+
+461
+00:16:39,180 --> 00:16:40,740
+politique extractiviste à cet endroit
+
+462
+00:16:40,740 --> 00:16:43,560
+alors que plus globalement enfin plus
+
+463
+00:16:43,560 --> 00:16:44,639
+généralement en tout cas régionalement
+
+464
+00:16:44,639 --> 00:16:46,440
+de la Guyane française c'est toute la
+
+465
+00:16:46,440 --> 00:16:47,699
+Guyane française qui est soumise à cette
+
+466
+00:16:47,699 --> 00:16:49,740
+prédation minière notamment et il y a
+
+467
+00:16:49,740 --> 00:16:51,300
+une carte page 64 on va peut-être
+
+468
+00:16:51,300 --> 00:16:54,600
+montrer contre ensuite mais qui montre
+
+469
+00:16:54,600 --> 00:16:55,980
+vraiment à quel point il y a des il y a
+
+470
+00:16:55,980 --> 00:16:57,120
+des centaines de kilomètres carrés qui
+
+471
+00:16:57,120 --> 00:16:58,680
+sont qui sont soumets extraction minière
+
+472
+00:16:58,680 --> 00:17:01,680
+du coup voilà qui montre la multiplicité
+
+473
+00:17:01,680 --> 00:17:05,339
+de ces de ces projets d'extraction alors
+
+474
+00:17:05,339 --> 00:17:07,439
+bien sûr on a affaire à l'outil
+
+475
+00:17:07,439 --> 00:17:09,240
+médiatique et donc l'histoire de la
+
+476
+00:17:09,240 --> 00:17:11,280
+Montagne d'Or a vraiment été médiatisée
+
+477
+00:17:11,280 --> 00:17:14,540
+en note de bas de page Matthieu précise
+
+478
+00:17:14,540 --> 00:17:18,480
+le projet a été arrêté par donc c'est un
+
+479
+00:17:18,480 --> 00:17:20,280
+projet Russo canadien si je ne m'abuse
+
+480
+00:17:20,280 --> 00:17:22,140
+il a été arrêté par le gouvernement
+
+481
+00:17:22,140 --> 00:17:24,900
+français en 2019 mais en 2020 on en
+
+482
+00:17:24,900 --> 00:17:26,819
+lançait un autre donc quelque part c'est
+
+483
+00:17:26,819 --> 00:17:28,319
+satisfaire cette pression médiatique
+
+484
+00:17:28,319 --> 00:17:30,840
+pressons médiatique très souvent
+
+485
+00:17:30,840 --> 00:17:33,059
+utile notamment pour ce qui concerne la
+
+486
+00:17:33,059 --> 00:17:35,460
+défenses des personnes en migration et
+
+487
+00:17:35,460 --> 00:17:38,100
+dans ce cas là c'était c'était apaisé en
+
+488
+00:17:38,100 --> 00:17:40,860
+fait apaisé ce mot assez terrible apaisé
+
+489
+00:17:40,860 --> 00:17:44,760
+la la gronde la rumeur publique et tout
+
+490
+00:17:44,760 --> 00:17:46,559
+en continuant d'agir par les mêmes
+
+491
+00:17:46,559 --> 00:17:49,320
+procédés par ailleurs donc oui Mathieu
+
+492
+00:17:49,320 --> 00:17:51,360
+montre ça et c'est beaucoup intéressé au
+
+493
+00:17:51,360 --> 00:17:53,039
+début au petites cartes du web ces
+
+494
+00:17:53,039 --> 00:17:54,299
+petites cartes produites par des
+
+495
+00:17:54,299 --> 00:17:57,500
+personnes non spécialistes et
+
+496
+00:17:57,500 --> 00:18:00,020
+a fait
+
+497
+00:18:00,020 --> 00:18:02,280
+propose un panorama de tout ce qui se
+
+498
+00:18:02,280 --> 00:18:03,780
+fait en Guyane c'est à dire de cette
+
+499
+00:18:03,780 --> 00:18:05,700
+cartographie de la rue sur les places de
+
+500
+00:18:05,700 --> 00:18:08,760
+marché sur les sur les parapets au bord
+
+501
+00:18:08,760 --> 00:18:11,100
+des rues sur les réseaux aussi qui
+
+502
+00:18:11,100 --> 00:18:13,020
+montrent justement la dimension spatiale
+
+503
+00:18:13,020 --> 00:18:15,419
+de cette extraction en l'amplifiant pour
+
+504
+00:18:15,419 --> 00:18:16,919
+certains phénomènes ceux qui sont plus
+
+505
+00:18:16,919 --> 00:18:20,460
+porteurs et peut-être peut-être qu'elle
+
+506
+00:18:20,460 --> 00:18:22,140
+demanderait une visibilité plus générale
+
+507
+00:18:22,140 --> 00:18:24,960
+c'est sûr mais bon comme dit on a
+
+508
+00:18:24,960 --> 00:18:26,580
+affaire à de l'information de
+
+509
+00:18:26,580 --> 00:18:28,080
+l'information brute et c'est un jeu
+
+510
+00:18:28,080 --> 00:18:30,740
+c'est un jeu ou une guerre c'est selon
+
+511
+00:18:30,740 --> 00:18:33,000
+la carte finalement elle montre aussi
+
+512
+00:18:33,000 --> 00:18:34,559
+nerveux ce qu'elle ne veut pas parfois
+
+513
+00:18:34,559 --> 00:18:36,320
+pas forcément consciemment vous
+
+514
+00:18:36,320 --> 00:18:38,940
+mentionnez notamment cette citation la
+
+515
+00:18:38,940 --> 00:18:40,620
+carte n'est pas le territoire qui est
+
+516
+00:18:40,620 --> 00:18:43,200
+une station assez amusante finalement
+
+517
+00:18:43,200 --> 00:18:44,520
+parce que vous vous expliquez qu'elle
+
+518
+00:18:44,520 --> 00:18:45,740
+vient de
+
+519
+00:18:45,740 --> 00:18:48,299
+alfredski un aristocrate polonais
+
+520
+00:18:48,299 --> 00:18:50,400
+fondateur d'une sémantique générale et
+
+521
+00:18:50,400 --> 00:18:51,720
+qu'il aurait formulé après son
+
+522
+00:18:51,720 --> 00:18:53,100
+expérience en tant qu'officier par la
+
+523
+00:18:53,100 --> 00:18:54,179
+Première Guerre mondiale lorsqu'il a
+
+524
+00:18:54,179 --> 00:18:55,620
+dirigé une attaque désastreuse au cours
+
+525
+00:18:55,620 --> 00:18:56,760
+de laquelle c'est soldats sont tombés
+
+526
+00:18:56,760 --> 00:18:57,660
+dans une fosse qui n'étaient pas
+
+527
+00:18:57,660 --> 00:18:59,760
+indiquée sur la carte donc oups la
+
+528
+00:18:59,760 --> 00:19:01,799
+boulette et ensuite il y a Grégory
+
+529
+00:19:01,799 --> 00:19:03,720
+badson un autre Prolog et linguisme
+
+530
+00:19:03,720 --> 00:19:05,220
+américain qui a complété cette phrase en
+
+531
+00:19:05,220 --> 00:19:07,020
+ajoutant et le nom n'est pas la chose
+
+532
+00:19:07,020 --> 00:19:09,380
+nommé
+
+533
+00:19:09,440 --> 00:19:12,780
+c'est une citation de reprise par les
+
+534
+00:19:12,780 --> 00:19:14,640
+iconoclassistes de Buenos Aires qui eux
+
+535
+00:19:14,640 --> 00:19:16,740
+font de la cortographie à très grande
+
+536
+00:19:16,740 --> 00:19:18,000
+échelle dans toute l'Amérique du Sud
+
+537
+00:19:18,000 --> 00:19:20,640
+pour pour dénoncer justement cette ce
+
+538
+00:19:20,640 --> 00:19:22,799
+problème de d'acaparement du territoire
+
+539
+00:19:22,799 --> 00:19:25,860
+par les multinationales à la fois par
+
+540
+00:19:25,860 --> 00:19:27,480
+l'agro l'a gros business l'agro
+
+541
+00:19:27,480 --> 00:19:30,539
+industrie et l'industrie minière mais
+
+542
+00:19:30,539 --> 00:19:33,919
+aussi la pollution qui est en résulte et
+
+543
+00:19:33,919 --> 00:19:36,419
+alors cette citation elle est très
+
+544
+00:19:36,419 --> 00:19:38,160
+courante en cartographie elle est un
+
+545
+00:19:38,160 --> 00:19:40,500
+petit peu usée aussi bien sûr la carte
+
+546
+00:19:40,500 --> 00:19:43,820
+n'est pas le territoire et
+
+547
+00:19:43,820 --> 00:19:46,559
+je pense que personne n'éduque en
+
+548
+00:19:46,559 --> 00:19:49,320
+réalité surtout après tous ces travaux
+
+549
+00:19:49,320 --> 00:19:52,799
+de déconstruction de l'objet carte et de
+
+550
+00:19:52,799 --> 00:19:54,940
+ses usages mais
+
+551
+00:19:54,940 --> 00:19:56,820
+[Musique]
+
+552
+00:19:56,820 --> 00:19:58,640
+oui oui c'est
+
+553
+00:19:58,640 --> 00:20:02,400
+c'est judicieux de la reprendre dans ce
+
+554
+00:20:02,400 --> 00:20:04,260
+contexte il y a un des personnes qui a
+
+555
+00:20:04,260 --> 00:20:05,100
+participé à ce livre je crois que c'est
+
+556
+00:20:05,100 --> 00:20:07,080
+un bon ami à vous c'est Philippe reca
+
+557
+00:20:07,080 --> 00:20:09,980
+recadevitz
+
+558
+00:20:09,980 --> 00:20:12,539
+notamment qui notamment a mis en valeur
+
+559
+00:20:12,539 --> 00:20:15,120
+le passage obligé par les boutiques ça
+
+560
+00:20:15,120 --> 00:20:17,340
+sera page 889 on monte à l'écran
+
+561
+00:20:17,340 --> 00:20:19,140
+toujours et qui montre comment l'espace
+
+562
+00:20:19,140 --> 00:20:22,440
+de 2 ans et demi l'aéroport d'Oslo temps
+
+563
+00:20:22,440 --> 00:20:24,419
+en métamorphosé pour que l'espace duty
+
+564
+00:20:24,419 --> 00:20:25,320
+free shop
+
+565
+00:20:25,320 --> 00:20:27,299
+occupe vraiment tout l'espace finalement
+
+566
+00:20:27,299 --> 00:20:28,799
+libre pour les pour les gens qui
+
+567
+00:20:28,799 --> 00:20:31,020
+attendent pour les passagers et c'est
+
+568
+00:20:31,020 --> 00:20:33,600
+beaucoup plus parlant de le voir c'est
+
+569
+00:20:33,600 --> 00:20:35,400
+comme une métaphore de ce qui s'est qui
+
+570
+00:20:35,400 --> 00:20:36,720
+se passe par rapport à l'espace public
+
+571
+00:20:36,720 --> 00:20:38,640
+parce que ce phénomène on l'a dans tous
+
+572
+00:20:38,640 --> 00:20:41,280
+les aéroports du monde on a aussi dans
+
+573
+00:20:41,280 --> 00:20:42,260
+les gares
+
+574
+00:20:42,260 --> 00:20:44,400
+même moi je suis souvent à la gare de
+
+575
+00:20:44,400 --> 00:20:46,200
+l'est forcément comme j'habite en
+
+576
+00:20:46,200 --> 00:20:47,299
+Allemagne et
+
+577
+00:20:47,299 --> 00:20:50,520
+j'entre dans une galerie commerciale en
+
+578
+00:20:50,520 --> 00:20:54,419
+fait et cet espace qui est dédié au flux
+
+579
+00:20:54,419 --> 00:20:56,160
+des personnes absolument indispensables
+
+580
+00:20:56,160 --> 00:20:58,580
+il est il est constamment rogné partout
+
+581
+00:20:58,580 --> 00:21:00,900
+alors que c'est un commun nous le
+
+582
+00:21:00,900 --> 00:21:03,600
+considérons comme un commun et pourquoi
+
+583
+00:21:03,600 --> 00:21:06,120
+pour pour faire de l'argent en fait pour
+
+584
+00:21:06,120 --> 00:21:09,000
+vous forcer pour vous tenter en fait
+
+585
+00:21:09,000 --> 00:21:11,760
+c'est donc dans les aéroports c'est
+
+586
+00:21:11,760 --> 00:21:14,400
+absolument clair il la cartographie les
+
+587
+00:21:14,400 --> 00:21:16,580
+espaces d'attente devant les portes
+
+588
+00:21:16,580 --> 00:21:18,440
+étaient autrefois
+
+589
+00:21:18,440 --> 00:21:20,760
+beaucoup plus
+
+590
+00:21:20,760 --> 00:21:22,679
+occupé toute la place et aujourd'hui ce
+
+591
+00:21:22,679 --> 00:21:24,360
+sont des couloirs ce sont des couloirs
+
+592
+00:21:24,360 --> 00:21:26,960
+gris et tristes et
+
+593
+00:21:26,960 --> 00:21:30,000
+souvent barré par des rangées de caddie
+
+594
+00:21:30,000 --> 00:21:31,260
+qui vous empêchent de découvrir le
+
+595
+00:21:31,260 --> 00:21:34,200
+passage et vous essayez d'être à jeunes
+
+596
+00:21:34,200 --> 00:21:35,460
+de murs de chariot pour empêcher les
+
+597
+00:21:35,460 --> 00:21:36,539
+gens de pouvoir accéder à l'espace
+
+598
+00:21:36,539 --> 00:21:38,039
+d'attente être obligé d'être confiné à
+
+599
+00:21:38,039 --> 00:21:40,280
+cet espace beautiful voilà donc
+
+600
+00:21:40,280 --> 00:21:43,799
+si vous pouvez voyager vous-même faites
+
+601
+00:21:43,799 --> 00:21:45,080
+le constat
+
+602
+00:21:45,080 --> 00:21:47,760
+est-ce que vous pouvez éviter les duty
+
+603
+00:21:47,760 --> 00:21:52,100
+free Shop et probablement non
+
+604
+00:21:54,059 --> 00:21:55,440
+toujours au niveau des cartes qu'on
+
+605
+00:21:55,440 --> 00:21:56,640
+pourra toujours montrer vraiment qui
+
+606
+00:21:56,640 --> 00:21:58,140
+sont vraiment très très intéressantes et
+
+607
+00:21:58,140 --> 00:22:01,500
+assez variés pas 126 il y a la
+
+608
+00:22:01,500 --> 00:22:03,480
+réalisation de cette carte qui je crois
+
+609
+00:22:03,480 --> 00:22:04,980
+notamment est une carte collaborative
+
+610
+00:22:04,980 --> 00:22:06,900
+qui a été faite avec avec des enfants
+
+611
+00:22:06,900 --> 00:22:08,659
+c'est le trompe pas
+
+612
+00:22:08,659 --> 00:22:12,179
+de jeunes adultes plutôt voilà oui vous
+
+613
+00:22:12,179 --> 00:22:13,140
+dites ça parce qu'il y a des gommettes
+
+614
+00:22:13,140 --> 00:22:16,020
+alors là mais il s'agit d'un travail
+
+615
+00:22:16,020 --> 00:22:18,600
+très sophistiqué en fait après le choix
+
+616
+00:22:18,600 --> 00:22:20,700
+le choix c'est mieux logique qu'est-ce
+
+617
+00:22:20,700 --> 00:22:22,200
+que je vais retenir comme langage ça
+
+618
+00:22:22,200 --> 00:22:25,380
+vous regarde alors c'est Sarah medjian
+
+619
+00:22:25,380 --> 00:22:28,260
+et Anne-Laure a mis la Tarzy sari qui
+
+620
+00:22:28,260 --> 00:22:30,360
+ont travaillé avec réalisé des ateliers
+
+621
+00:22:30,360 --> 00:22:33,120
+avec des migrants et migrants et leur
+
+622
+00:22:33,120 --> 00:22:35,100
+ont demandé de de transcrire sur le
+
+623
+00:22:35,100 --> 00:22:36,840
+papier leur expérience de l'immigration
+
+624
+00:22:36,840 --> 00:22:39,840
+donc plutôt que de ces cartes que nous
+
+625
+00:22:39,840 --> 00:22:41,280
+connaissons trop c'est-à-dire celle
+
+626
+00:22:41,280 --> 00:22:43,320
+établit par Frontex ou le flux
+
+627
+00:22:43,320 --> 00:22:45,120
+migratoire c'est un grand trait
+
+628
+00:22:45,120 --> 00:22:46,280
+proportionnel
+
+629
+00:22:46,280 --> 00:22:49,020
+prétendument au nombre de migrantes qui
+
+630
+00:22:49,020 --> 00:22:50,820
+viennent envahir l'Europe avec une
+
+631
+00:22:50,820 --> 00:22:52,679
+grosse flèche bien insérée qui va
+
+632
+00:22:52,679 --> 00:22:54,659
+pointer sur votre ventre et ben là on
+
+633
+00:22:54,659 --> 00:22:56,580
+montre quoi on montre la réalité de ce
+
+634
+00:22:56,580 --> 00:22:58,679
+phénomène il n'y a pas de grande route
+
+635
+00:22:58,679 --> 00:23:00,500
+d'autoroute de migration c'est faux
+
+636
+00:23:00,500 --> 00:23:02,460
+chaque migration est un projet
+
+637
+00:23:02,460 --> 00:23:05,640
+individuel et moi j'insiste beaucoup sur
+
+638
+00:23:05,640 --> 00:23:08,340
+cette aspect là de la migration c'est un
+
+639
+00:23:08,340 --> 00:23:09,960
+projet de vie derrière un une personne
+
+640
+00:23:09,960 --> 00:23:12,419
+qui mique il y a tout un village tout un
+
+641
+00:23:12,419 --> 00:23:13,740
+village qui a perdu toutes ses
+
+642
+00:23:13,740 --> 00:23:15,000
+ressources en raison de la colonisation
+
+643
+00:23:15,000 --> 00:23:18,179
+et de la prédation néo néolibérale et où
+
+644
+00:23:18,179 --> 00:23:19,440
+les gens placent tout leur espoir dans
+
+645
+00:23:19,440 --> 00:23:21,840
+une personne qui s'arrache à son cadre
+
+646
+00:23:21,840 --> 00:23:24,179
+de vie pour pour espérer vivre
+
+647
+00:23:24,179 --> 00:23:26,880
+normalement décemment c'est ce qu'on
+
+648
+00:23:26,880 --> 00:23:29,039
+fait nos ancêtres moi mes ancêtres ils
+
+649
+00:23:29,039 --> 00:23:31,380
+sont aux États-Unis parce qu'il mourait
+
+650
+00:23:31,380 --> 00:23:33,240
+de faim en Allemagne tout simplement les
+
+651
+00:23:33,240 --> 00:23:34,620
+vôtres certainement aussi nous sommes
+
+652
+00:23:34,620 --> 00:23:36,000
+toutes et tous des enfants de la
+
+653
+00:23:36,000 --> 00:23:37,740
+migration la migration qui se produit
+
+654
+00:23:37,740 --> 00:23:39,480
+aujourd'hui elle est c'est un phénomène
+
+655
+00:23:39,480 --> 00:23:42,960
+inhérent à l'humanité et ça continuera
+
+656
+00:23:42,960 --> 00:23:45,360
+et plus vous l'empêcherez plus vous
+
+657
+00:23:45,360 --> 00:23:46,799
+serez criminel parce que plus vous
+
+658
+00:23:46,799 --> 00:23:48,179
+pousserez des personnes à prendre des
+
+659
+00:23:48,179 --> 00:23:50,880
+routes des des avoir des trajets
+
+660
+00:23:50,880 --> 00:23:52,860
+dangereux et vous les pousserez à la
+
+661
+00:23:52,860 --> 00:23:54,780
+mort donc ça c'est de questionner donc
+
+662
+00:23:54,780 --> 00:23:57,480
+c'est représentations de frontext elles
+
+663
+00:23:57,480 --> 00:23:58,559
+sont de la manipulation de
+
+664
+00:23:58,559 --> 00:24:00,419
+cartographiques c'est évident et vous
+
+665
+00:24:00,419 --> 00:24:02,940
+pouvez après montrer l'expérience de la
+
+666
+00:24:02,940 --> 00:24:04,440
+migration de ces personnes qui sont dans
+
+667
+00:24:04,440 --> 00:24:06,299
+un camion qui sont perdus dans la
+
+668
+00:24:06,299 --> 00:24:07,919
+montagne qui mourront peut-être dans la
+
+669
+00:24:07,919 --> 00:24:09,600
+montagne et on retrouvera leur corps au
+
+670
+00:24:09,600 --> 00:24:10,760
+printemps
+
+671
+00:24:10,760 --> 00:24:14,720
+aux échelles quand la neige fondera et
+
+672
+00:24:14,720 --> 00:24:16,559
+c'est ça qu'il faut montrer pourquoi
+
+673
+00:24:16,559 --> 00:24:17,940
+parce que vous allez montrer des êtres
+
+674
+00:24:17,940 --> 00:24:19,679
+humains des êtres humains comme comme
+
+675
+00:24:19,679 --> 00:24:21,360
+vous et moi et ce travail est
+
+676
+00:24:21,360 --> 00:24:23,220
+extraordinaire donc les gommettes à
+
+677
+00:24:23,220 --> 00:24:24,600
+chaque gommettes est attribué une
+
+678
+00:24:24,600 --> 00:24:27,419
+signification c'est à dire au niveau
+
+679
+00:24:27,419 --> 00:24:29,580
+sensible sont des cartes sensibles voilà
+
+680
+00:24:29,580 --> 00:24:32,340
+à cet endroit j'ai eu froid à cet
+
+681
+00:24:32,340 --> 00:24:34,860
+endroit j'ai eu peur ici j'ai été
+
+682
+00:24:34,860 --> 00:24:36,419
+agressé et vous avez toute une
+
+683
+00:24:36,419 --> 00:24:40,440
+symbolique bien décidé en commun qui va
+
+684
+00:24:40,440 --> 00:24:44,760
+montrer c'est c'est ces impressions ses
+
+685
+00:24:44,760 --> 00:24:48,480
+sentiments c'est cette véritable façon
+
+686
+00:24:48,480 --> 00:24:50,460
+de vivre l'espace parce que tout au long
+
+687
+00:24:50,460 --> 00:24:52,740
+de l'ouvrage que vous expliquez vous y
+
+688
+00:24:52,740 --> 00:24:54,240
+revenez sans cesse c'est que une carte
+
+689
+00:24:54,240 --> 00:24:54,960
+qui peut être peut paraître un peu
+
+690
+00:24:54,960 --> 00:24:57,780
+froide immobile ou amovible c'est un
+
+691
+00:24:57,780 --> 00:24:59,580
+récit avant tout et notamment cette
+
+692
+00:24:59,580 --> 00:25:01,260
+carte de la migration fait par fait par
+
+693
+00:25:01,260 --> 00:25:03,539
+les Afghans notamment c'est un vrai
+
+694
+00:25:03,539 --> 00:25:05,460
+récif on peut voir on peut voir
+
+695
+00:25:05,460 --> 00:25:07,380
+normalement qu'on la montre mais ils
+
+696
+00:25:07,380 --> 00:25:09,600
+expliquent que la posture qui a tiré sur
+
+697
+00:25:09,600 --> 00:25:11,760
+une voiture de personnalité tuée et puis
+
+698
+00:25:11,760 --> 00:25:12,720
+il y a aussi des zones où il y a juste
+
+699
+00:25:12,720 --> 00:25:14,460
+des points d'interrogation finalement où
+
+700
+00:25:14,460 --> 00:25:15,720
+c'est un peu c'est un peu l'inconnu et
+
+701
+00:25:15,720 --> 00:25:16,799
+où les gens essaient de représenter
+
+702
+00:25:16,799 --> 00:25:18,240
+aussi c'est un peu ce qui ne savent pas
+
+703
+00:25:18,240 --> 00:25:20,700
+au niveau du territoire voilà ces gens
+
+704
+00:25:20,700 --> 00:25:23,940
+sont projetés dans l'inconnu moi j'ai eu
+
+705
+00:25:23,940 --> 00:25:26,400
+la chance de à la vallée de la Roya de
+
+706
+00:25:26,400 --> 00:25:28,100
+rencontrer Cédric et roux et de
+
+707
+00:25:28,100 --> 00:25:30,779
+interviewer les gens sur place j'ai
+
+708
+00:25:30,779 --> 00:25:33,179
+produit un article sur vision cartoon à
+
+709
+00:25:33,179 --> 00:25:36,059
+propos de ça et et ces personnes elles
+
+710
+00:25:36,059 --> 00:25:38,039
+sont en souffrance bien sûr parce
+
+711
+00:25:38,039 --> 00:25:39,900
+qu'elles sont perdus elles sont perdues
+
+712
+00:25:39,900 --> 00:25:42,419
+dans les aléas de l'administration du
+
+713
+00:25:42,419 --> 00:25:44,220
+traitement kafkaïen qui leur est réservé
+
+714
+00:25:44,220 --> 00:25:47,820
+et et beaucoup de choses seront tu il y
+
+715
+00:25:47,820 --> 00:25:49,020
+a une personne qui m'a dit viens je te
+
+716
+00:25:49,020 --> 00:25:50,520
+montre quelque chose et qui m'a amené
+
+717
+00:25:50,520 --> 00:25:51,659
+derrière le bâtiment et qui m'a montré
+
+718
+00:25:51,659 --> 00:25:54,299
+son corps balafré mais je ne peux pas
+
+719
+00:25:54,299 --> 00:25:56,279
+montrer ça je ne veux pas montrer ça
+
+720
+00:25:56,279 --> 00:25:59,039
+c'est autre chose que je veux montrer et
+
+721
+00:25:59,039 --> 00:26:01,919
+c'était son histoire l'histoire de son
+
+722
+00:26:01,919 --> 00:26:03,840
+son parcours à elle qui dure des années
+
+723
+00:26:03,840 --> 00:26:06,120
+c'est parcours dure des années et avec
+
+724
+00:26:06,120 --> 00:26:09,919
+beaucoup de recul d'avancer de recul
+
+725
+00:26:09,919 --> 00:26:12,299
+la cartographie elle a su évoluer avec
+
+726
+00:26:12,299 --> 00:26:14,460
+avec son époque parce que c'est logique
+
+727
+00:26:14,460 --> 00:26:17,340
+à dire mais pas forcément mal non plus
+
+728
+00:26:17,340 --> 00:26:19,320
+dans la numérisation ça permet d'avoir
+
+729
+00:26:19,320 --> 00:26:21,179
+des cartes interactives et participative
+
+730
+00:26:21,179 --> 00:26:24,360
+et actualisées sans cesse là c'est pas
+
+731
+00:26:24,360 --> 00:26:27,000
+186 où vous avez une de vos collègues
+
+732
+00:26:27,000 --> 00:26:30,539
+qui est Noah flinkman je crois c'est ça
+
+733
+00:26:30,539 --> 00:26:33,000
+qui notamment a montré cette cette
+
+734
+00:26:33,000 --> 00:26:34,980
+cartographie je crois que c'est du Caire
+
+735
+00:26:34,980 --> 00:26:38,120
+si je me trompe pas oui
+
+736
+00:26:38,480 --> 00:26:41,039
+les agressions sexuelles sexistes et
+
+737
+00:26:41,039 --> 00:26:43,200
+sexuelles voilà alors c'est une carte en
+
+738
+00:26:43,200 --> 00:26:44,760
+ligne qui est interactive c'est-à-dire
+
+739
+00:26:44,760 --> 00:26:45,740
+que
+
+740
+00:26:45,740 --> 00:26:49,020
+la carte rasmap il y en a plusieurs
+
+741
+00:26:49,020 --> 00:26:51,020
+déclinaisons un peu partout aujourd'hui
+
+742
+00:26:51,020 --> 00:26:52,700
+montre
+
+743
+00:26:52,700 --> 00:26:55,919
+les agression sexuelle qui vont de la
+
+744
+00:26:55,919 --> 00:26:58,200
+remarque désobligeante au viol qui ont
+
+745
+00:26:58,200 --> 00:27:00,360
+lieu dans l'espace public en Egypte ici
+
+746
+00:27:00,360 --> 00:27:02,400
+la carte du Caire alors vous pouvez
+
+747
+00:27:02,400 --> 00:27:04,919
+appeler faire un signalement faire un
+
+748
+00:27:04,919 --> 00:27:07,440
+signalement en ligne et expliquer ce qui
+
+749
+00:27:07,440 --> 00:27:10,080
+s'est passé la personne peut décider de
+
+750
+00:27:10,080 --> 00:27:11,760
+donner des informations sur elle-même
+
+751
+00:27:11,760 --> 00:27:14,220
+les témoins expliquent aussi tout cela
+
+752
+00:27:14,220 --> 00:27:17,360
+est recensé sur cette carte et
+
+753
+00:27:17,360 --> 00:27:20,419
+ça a provoqué plusieurs choses
+
+754
+00:27:20,419 --> 00:27:24,679
+d'abord une grande de grande débat sur
+
+755
+00:27:24,679 --> 00:27:26,700
+qu'est-ce qu'on est en train de dévoiler
+
+756
+00:27:26,700 --> 00:27:28,860
+ici le comportement des hommes qui eux
+
+757
+00:27:28,860 --> 00:27:30,360
+sont considérés comme presque des
+
+758
+00:27:30,360 --> 00:27:31,919
+victimes de ces femmes qui les tentent
+
+759
+00:27:31,919 --> 00:27:35,159
+un peu partout et ça a été remis en
+
+760
+00:27:35,159 --> 00:27:36,720
+question et beaucoup discuter discuter
+
+761
+00:27:36,720 --> 00:27:39,120
+donc quelque part ça fait émerger une
+
+762
+00:27:39,120 --> 00:27:40,559
+prise de conscience de la problématique
+
+763
+00:27:40,559 --> 00:27:42,600
+et on s'est rendu compte que les
+
+764
+00:27:42,600 --> 00:27:43,919
+personnes qui pouvaient témoigner
+
+765
+00:27:43,919 --> 00:27:45,659
+qu'elles soient victimes ou témoins de
+
+766
+00:27:45,659 --> 00:27:47,940
+de ses agressions elles étaient beaucoup
+
+767
+00:27:47,940 --> 00:27:50,820
+plus libres dans leurs paroles que face
+
+768
+00:27:50,820 --> 00:27:54,120
+à un policier que face à un psy drogue
+
+769
+00:27:54,120 --> 00:27:56,400
+et donc quelque part ça a libéré la
+
+770
+00:27:56,400 --> 00:27:58,620
+parole sur la nature de ces agressions
+
+771
+00:27:58,620 --> 00:28:00,240
+donc ça permet de construire des bases
+
+772
+00:28:00,240 --> 00:28:02,220
+de données et la carte contre
+
+773
+00:28:02,220 --> 00:28:05,520
+cartographie donc elle elle est utile
+
+774
+00:28:05,520 --> 00:28:07,559
+socialement comme dit dans les quartiers
+
+775
+00:28:07,559 --> 00:28:09,539
+informels elle va elle va forcer les
+
+776
+00:28:09,539 --> 00:28:11,039
+municipalités à construire des
+
+777
+00:28:11,039 --> 00:28:12,779
+infrastructures et dans le cas de
+
+778
+00:28:12,779 --> 00:28:15,299
+dénonciation de de ce genre de travers
+
+779
+00:28:15,299 --> 00:28:17,880
+culturel mondiaux dans le cas du
+
+780
+00:28:17,880 --> 00:28:20,220
+harcèlement et de tout ce qu'on peut
+
+781
+00:28:20,220 --> 00:28:21,480
+imposer à la moitié de l'humanité
+
+782
+00:28:21,480 --> 00:28:23,760
+c'est-à-dire aux femmes elles
+
+783
+00:28:23,760 --> 00:28:25,559
+construisent des bases de données et
+
+784
+00:28:25,559 --> 00:28:28,140
+elle contribue à faire évoluer le débat
+
+785
+00:28:28,140 --> 00:28:31,020
+public et là c'est c'est un véritable
+
+786
+00:28:31,020 --> 00:28:33,419
+succès par rapport à quelque chose de
+
+787
+00:28:33,419 --> 00:28:35,580
+honteux en fait honteux non seulement
+
+788
+00:28:35,580 --> 00:28:37,340
+pour la victime mais
+
+789
+00:28:37,340 --> 00:28:41,880
+non reconnu par par les agresseurs et la
+
+790
+00:28:41,880 --> 00:28:43,220
+société
+
+791
+00:28:43,220 --> 00:28:46,520
+complice de cette situation
+
+792
+00:28:46,520 --> 00:28:48,480
+et quand on commence à apprendre la
+
+793
+00:28:48,480 --> 00:28:50,340
+géographie je pense dans les jeunes
+
+794
+00:28:50,340 --> 00:28:53,220
+années collège lycée entre autres il y a
+
+795
+00:28:53,220 --> 00:28:55,380
+souvent je pense sophoconcept très
+
+796
+00:28:55,380 --> 00:28:56,640
+dangereux vous allez pouvoir nous en
+
+797
+00:28:56,640 --> 00:28:58,620
+parler où on va parler de frontières
+
+798
+00:28:58,620 --> 00:29:00,600
+naturelles ce qui pourrait être une
+
+799
+00:29:00,600 --> 00:29:02,580
+hérésie peut-être pour certains pour
+
+800
+00:29:02,580 --> 00:29:03,539
+certains géographes en tout cas pour des
+
+801
+00:29:03,539 --> 00:29:05,100
+géographes telles que nous on les
+
+802
+00:29:05,100 --> 00:29:06,240
+conçoit je Palise des recrues par
+
+803
+00:29:06,240 --> 00:29:07,980
+exemple les frères naturels ça n'existe
+
+804
+00:29:07,980 --> 00:29:09,900
+pas c'est une invention pourquoi est-ce
+
+805
+00:29:09,900 --> 00:29:10,740
+qu'on parle de frontière naturelle
+
+806
+00:29:10,740 --> 00:29:12,179
+qu'est-ce qu'on devrait dire à la place
+
+807
+00:29:12,179 --> 00:29:14,480
+de frontière naturelle
+
+808
+00:29:14,480 --> 00:29:17,539
+ne plus jamais parler de frontières
+
+809
+00:29:17,539 --> 00:29:20,279
+on peut dire interface si vous prenez
+
+810
+00:29:20,279 --> 00:29:22,919
+par exemple qu'est-ce qui sépare la
+
+811
+00:29:22,919 --> 00:29:24,919
+France de l'Allemagne je me suis
+
+812
+00:29:24,919 --> 00:29:29,159
+j'habite dans cette région et je passe
+
+813
+00:29:29,159 --> 00:29:31,140
+la frontière tous les jours pratiquement
+
+814
+00:29:31,140 --> 00:29:32,760
+et vous avez une petite plaque au sol
+
+815
+00:29:32,760 --> 00:29:34,799
+qui va vous montrer la frontière voilà
+
+816
+00:29:34,799 --> 00:29:37,380
+c'est tout est-ce que c'est le Rhin la
+
+817
+00:29:37,380 --> 00:29:38,700
+frontière naturelle ou est-ce que ce
+
+818
+00:29:38,700 --> 00:29:40,860
+sont les montagnes de la Forêt Noire et
+
+819
+00:29:40,860 --> 00:29:43,440
+des Vosges voilà on va pouvoir se
+
+820
+00:29:43,440 --> 00:29:44,520
+disputer là-dessus c'est beaucoup
+
+821
+00:29:44,520 --> 00:29:46,860
+discuter là-dessus mais un fleuve c'est
+
+822
+00:29:46,860 --> 00:29:49,020
+quoi et en Guyane par exemple c'est
+
+823
+00:29:49,020 --> 00:29:50,820
+parfaitement démontré par Mathieu nous
+
+824
+00:29:50,820 --> 00:29:51,799
+chez
+
+825
+00:29:51,799 --> 00:29:54,779
+un fleuve c'est une interface où vont se
+
+826
+00:29:54,779 --> 00:29:56,520
+produire des échanges c'est l'inverse
+
+827
+00:29:56,520 --> 00:29:58,620
+d'une frontière donc qu'est-ce qui est
+
+828
+00:29:58,620 --> 00:30:00,659
+naturel là dedans en sachant que par
+
+829
+00:30:00,659 --> 00:30:02,700
+exemple les lignes de côte si vous
+
+830
+00:30:02,700 --> 00:30:05,700
+partez de phénomène que vous pensez
+
+831
+00:30:05,700 --> 00:30:08,460
+naturel elle bouge elle bouge tout le
+
+832
+00:30:08,460 --> 00:30:11,279
+temps la ligne de partage des eaux aussi
+
+833
+00:30:11,279 --> 00:30:14,220
+donc ce sont des mêmes pseudos
+
+834
+00:30:14,220 --> 00:30:15,539
+frontières naturelles elles sont mobiles
+
+835
+00:30:15,539 --> 00:30:17,580
+donc qu'est-ce qui vous reste comme
+
+836
+00:30:17,580 --> 00:30:20,220
+point de d'ancrage ce sont en fait les
+
+837
+00:30:20,220 --> 00:30:22,140
+frontières administratives et c'est pour
+
+838
+00:30:22,140 --> 00:30:23,760
+ça que cette cartographie elle est aussi
+
+839
+00:30:23,760 --> 00:30:28,080
+bénéfique au niveau de notre elle elle
+
+840
+00:30:28,080 --> 00:30:31,200
+ouvre elle ouvre notre conception de la
+
+841
+00:30:31,200 --> 00:30:33,120
+cartographie c'est à dire est-ce que
+
+842
+00:30:33,120 --> 00:30:35,159
+j'ai besoin de représenter les limites
+
+843
+00:30:35,159 --> 00:30:38,460
+administratives sur une carte et bien
+
+844
+00:30:38,460 --> 00:30:40,860
+sûr moi je pars de ce que j'ai étudié
+
+845
+00:30:40,860 --> 00:30:42,960
+qui est ma spécialité c'est à dire les
+
+846
+00:30:42,960 --> 00:30:45,120
+autres types de Marie autonome
+
+847
+00:30:45,120 --> 00:30:47,220
+c'est-à-dire des représentations de
+
+848
+00:30:47,220 --> 00:30:49,980
+données économiques et sociales souvent
+
+849
+00:30:49,980 --> 00:30:52,320
+sur des fonds de cartes mais à de
+
+850
+00:30:52,320 --> 00:30:53,580
+nombreux moments ces fonds de cartes
+
+851
+00:30:53,580 --> 00:30:54,840
+disparaissent et vous n'avez plus qu'un
+
+852
+00:30:54,840 --> 00:30:57,360
+schéma le schéma qui vous permet de vous
+
+853
+00:30:57,360 --> 00:30:58,880
+orienter grossièrement
+
+854
+00:30:58,880 --> 00:31:01,440
+par rapport à la carte imaginaire que
+
+855
+00:31:01,440 --> 00:31:03,299
+vous avez en tête et cela suffit
+
+856
+00:31:03,299 --> 00:31:05,880
+amplement on n'a pas besoin de la
+
+857
+00:31:05,880 --> 00:31:07,799
+silhouette des continents on n'a pas
+
+858
+00:31:07,799 --> 00:31:10,140
+besoin de découpage politique qui très
+
+859
+00:31:10,140 --> 00:31:11,760
+souvent dans ce qui est l'infographie
+
+860
+00:31:11,760 --> 00:31:12,919
+aujourd'hui
+
+861
+00:31:12,919 --> 00:31:17,159
+sont de l'ordre de la de la de la
+
+862
+00:31:17,159 --> 00:31:20,279
+décoration de l'ornement en réalité vous
+
+863
+00:31:20,279 --> 00:31:22,020
+n'en avez pas besoin pour comprendre le
+
+864
+00:31:22,020 --> 00:31:24,600
+propos voilà il faut faire confiance à
+
+865
+00:31:24,600 --> 00:31:26,220
+l'intelligence des gens je pense que ça
+
+866
+00:31:26,220 --> 00:31:29,340
+nous ferait beaucoup beaucoup de bien
+
+867
+00:31:29,340 --> 00:31:31,320
+et quand on quand on étudie un peu
+
+868
+00:31:31,320 --> 00:31:32,880
+peut-être une certaine géographie en
+
+869
+00:31:32,880 --> 00:31:34,679
+tout cas l'économie de la géographie la
+
+870
+00:31:34,679 --> 00:31:35,760
+géographique économique je sais pas ce
+
+871
+00:31:35,760 --> 00:31:37,559
+qu'il convient le mieux mais on a
+
+872
+00:31:37,559 --> 00:31:39,419
+l'impression que on va opposer
+
+873
+00:31:39,419 --> 00:31:41,820
+spatialisation et territorialisation ça
+
+874
+00:31:41,820 --> 00:31:42,899
+va spatialisation ça va être juste
+
+875
+00:31:42,899 --> 00:31:45,679
+l'espace pratique finalement l'espace
+
+876
+00:31:45,679 --> 00:31:47,880
+dans lequel la marchande enfin tout est
+
+877
+00:31:47,880 --> 00:31:49,080
+marchandises y compris l'espace lui-même
+
+878
+00:31:49,080 --> 00:31:50,880
+devient marchandise là où la
+
+879
+00:31:50,880 --> 00:31:52,140
+territorialisation ça va être un peu
+
+880
+00:31:52,140 --> 00:31:54,299
+l'espace vécu qu'on va s'approprier et
+
+881
+00:31:54,299 --> 00:31:56,159
+qu'on va de fait pouvoir aussi opposer
+
+882
+00:31:56,159 --> 00:31:58,320
+peut-être à la conquête du
+
+883
+00:31:58,320 --> 00:32:00,059
+néolibéralisme
+
+884
+00:32:00,059 --> 00:32:01,559
+et malheureusement souvent dans l'idée
+
+885
+00:32:01,559 --> 00:32:02,700
+de territoire il y a une idée
+
+886
+00:32:02,700 --> 00:32:04,860
+réactionnaire qui va vite arriver au
+
+887
+00:32:04,860 --> 00:32:06,539
+niveau aussi d’antitaire la simulation
+
+888
+00:32:06,539 --> 00:32:07,799
+identité et territoire comment est-ce
+
+889
+00:32:07,799 --> 00:32:08,940
+qu'on peut revendiquer l'idée de
+
+890
+00:32:08,940 --> 00:32:10,799
+territoire de territorialisation sans
+
+891
+00:32:10,799 --> 00:32:12,600
+tomber dans une logique forcément la
+
+892
+00:32:12,600 --> 00:32:13,980
+réactionnaire en tout cas trop identité
+
+893
+00:32:13,980 --> 00:32:16,320
+on aurait beaucoup de mal alors je pense
+
+894
+00:32:16,320 --> 00:32:18,539
+que vous prenez 100 géographe et vous
+
+895
+00:32:18,539 --> 00:32:20,720
+aurez sans sans avis sur la question
+
+896
+00:32:20,720 --> 00:32:24,360
+voilà le vôtre c'est quoi le mien ce
+
+897
+00:32:24,360 --> 00:32:25,740
+serait celui que je développe dans le
+
+898
+00:32:25,740 --> 00:32:28,399
+précédent livre carto radical c'est
+
+899
+00:32:28,399 --> 00:32:30,659
+vous avez l'espace et vous avez le
+
+900
+00:32:30,659 --> 00:32:33,120
+territoire le territoire va servir à des
+
+901
+00:32:33,120 --> 00:32:35,399
+découpages politiques à des à des
+
+902
+00:32:35,399 --> 00:32:38,940
+guerres à des appropriations va émane
+
+903
+00:32:38,940 --> 00:32:41,279
+justement de ce traçage vous avez la
+
+904
+00:32:41,279 --> 00:32:43,320
+ligne verte entre Israël et la Palestine
+
+905
+00:32:43,320 --> 00:32:45,000
+qui est tracée au crayon qui s'appelle
+
+906
+00:32:45,000 --> 00:32:46,559
+ligne verte parce qu'elle est tracée
+
+907
+00:32:46,559 --> 00:32:49,500
+avec un crayon sur la carte vous avez ça
+
+908
+00:32:49,500 --> 00:32:51,659
+ça ne correspond absolument pas à ce que
+
+909
+00:32:51,659 --> 00:32:53,460
+les gens vivent dans leur espace et
+
+910
+00:32:53,460 --> 00:32:55,940
+c'est pour ça vous parlez d'identité
+
+911
+00:32:55,940 --> 00:32:58,320
+cette notion d'espace on se rend compte
+
+912
+00:32:58,320 --> 00:33:01,399
+qu'avec la mise sur carte de votre vécu
+
+913
+00:33:01,399 --> 00:33:04,260
+vous vous êtes obligé de vous référer à
+
+914
+00:33:04,260 --> 00:33:06,899
+votre activité dans l'espace mais c'est
+
+915
+00:33:06,899 --> 00:33:07,580
+aussi
+
+916
+00:33:07,580 --> 00:33:10,320
+ça fait aussi émerger une identité sa
+
+917
+00:33:10,320 --> 00:33:12,480
+consolide d'une identité de groupe et
+
+918
+00:33:12,480 --> 00:33:14,340
+vous avez une contribution dans le livre
+
+919
+00:33:14,340 --> 00:33:18,120
+sur la région Dax donc du Brésil de
+
+920
+00:33:18,120 --> 00:33:21,120
+l'extrême ouest du Brésil ou les gens
+
+921
+00:33:21,120 --> 00:33:22,679
+finissent par se définir par leur métier
+
+922
+00:33:22,679 --> 00:33:24,539
+c'est à dire nous sommes les pêcheuses
+
+923
+00:33:24,539 --> 00:33:27,779
+de telles de telles rivière nous sommes
+
+924
+00:33:27,779 --> 00:33:29,880
+les personnes qui cassent les noix un
+
+925
+00:33:29,880 --> 00:33:32,279
+tel endroit etc et quelque part ça fait
+
+926
+00:33:32,279 --> 00:33:33,840
+émerger des identités alors on pourrait
+
+927
+00:33:33,840 --> 00:33:35,820
+longtemps gloser sur ces notions
+
+928
+00:33:35,820 --> 00:33:38,640
+d'identité comme moi je conteste à de
+
+929
+00:33:38,640 --> 00:33:40,700
+nombreuses pour de nombreuses raisons
+
+930
+00:33:40,700 --> 00:33:42,960
+mais quelque part elles sont elles sont
+
+931
+00:33:42,960 --> 00:33:44,940
+un outil utile de la lutte quelque part
+
+932
+00:33:44,940 --> 00:33:47,399
+ce se rendre visible c'est aussi prendre
+
+933
+00:33:47,399 --> 00:33:49,380
+conscience de soi et quand on prend au
+
+934
+00:33:49,380 --> 00:33:50,700
+lutte pour les droits civiques aux
+
+935
+00:33:50,700 --> 00:33:53,100
+États-Unis au luttes pour les féministes
+
+936
+00:33:53,100 --> 00:33:55,980
+au luttes pour les personnes du Sud
+
+937
+00:33:55,980 --> 00:33:58,799
+global tout cela converge vers l'idée
+
+938
+00:33:58,799 --> 00:34:00,960
+montrons-nous montrons-nous pour
+
+939
+00:34:00,960 --> 00:34:02,760
+défendre nos droits et après nous
+
+940
+00:34:02,760 --> 00:34:04,140
+pourrons en ouvrer un nouveau nous
+
+941
+00:34:04,140 --> 00:34:05,779
+ouvrir vers
+
+942
+00:34:05,779 --> 00:34:08,399
+l'utopie internationaliste du siècle
+
+943
+00:34:08,399 --> 00:34:13,560
+dernier mais ne la perdons pas de vue
+
+944
+00:34:13,560 --> 00:34:14,879
+et il y a un accès qui est assez
+
+945
+00:34:14,879 --> 00:34:17,040
+inégalitaire finalement à l'objet au
+
+946
+00:34:17,040 --> 00:34:18,540
+sujet cartographique je pense que c'est
+
+947
+00:34:18,540 --> 00:34:20,060
+un peu c'est un peu les deux à la fois
+
+948
+00:34:20,060 --> 00:34:24,119
+notamment vous pas 136 137 sans vos
+
+949
+00:34:24,119 --> 00:34:25,820
+collègues je vérifie
+
+950
+00:34:25,820 --> 00:34:29,040
+vos collègues je sais pas quels sont vos
+
+951
+00:34:29,040 --> 00:34:31,820
+collègues vous me direz
+
+952
+00:34:37,219 --> 00:34:39,540
+que c'est inégal notamment Wikipédia qui
+
+953
+00:34:39,540 --> 00:34:41,460
+pas pourtant semble en tout cas est
+
+954
+00:34:41,460 --> 00:34:43,139
+vendu comme étant l'encyclopédie libre
+
+955
+00:34:43,139 --> 00:34:45,000
+etc et qui présente plein de bons côtés
+
+956
+00:34:45,000 --> 00:34:46,320
+effectivement mais qui finalement est
+
+957
+00:34:46,320 --> 00:34:48,239
+très très européenne et plus largement
+
+958
+00:34:48,239 --> 00:34:49,260
+occidentale et pas forcément une
+
+959
+00:34:49,260 --> 00:34:52,080
+encyclopédie accessible aux autres zones
+
+960
+00:34:52,080 --> 00:34:53,359
+géographiques
+
+961
+00:34:53,359 --> 00:34:55,500
+alors il y a différentes cartes de ce
+
+962
+00:34:55,500 --> 00:34:57,720
+groupe qui montrent que l'information
+
+963
+00:34:57,720 --> 00:34:59,760
+numérique bien sûr pour la carte tout ce
+
+964
+00:34:59,760 --> 00:35:00,780
+qui concerne la cartographie
+
+965
+00:35:00,780 --> 00:35:03,420
+collaborative et engagée elle va
+
+966
+00:35:03,420 --> 00:35:05,520
+permettre quoi d'avoir une carte des
+
+967
+00:35:05,520 --> 00:35:08,099
+cartes mise à jour par le crowdsourcing
+
+968
+00:35:08,099 --> 00:35:09,000
+c'est à dire des personnes qui
+
+969
+00:35:09,000 --> 00:35:10,500
+interviennent tout le monde à en tête
+
+970
+00:35:10,500 --> 00:35:12,420
+open StreetMap tout le monde peut
+
+971
+00:35:12,420 --> 00:35:14,820
+intervenir et donner son il y a aussi
+
+972
+00:35:14,820 --> 00:35:16,500
+une carte sur Open Street Map d'ailleurs
+
+973
+00:35:16,500 --> 00:35:17,660
+dans les livres
+
+974
+00:35:17,660 --> 00:35:20,820
+donc ces collaboratifs ça peut être mis
+
+975
+00:35:20,820 --> 00:35:22,200
+à jour ça peut être partagé ça peut
+
+976
+00:35:22,200 --> 00:35:24,119
+toucher énormément de monde voilà et
+
+977
+00:35:24,119 --> 00:35:26,280
+puis il y a une garantie au niveau de du
+
+978
+00:35:26,280 --> 00:35:27,900
+contenu voilà sont des formes que nous
+
+979
+00:35:27,900 --> 00:35:29,339
+connaissons que nous reconnaissons avec
+
+980
+00:35:29,339 --> 00:35:32,040
+qui avec lesquels nous pouvons nous dont
+
+981
+00:35:32,040 --> 00:35:33,780
+nous pouvons nous satisfaire mais le
+
+982
+00:35:33,780 --> 00:35:37,500
+problème c'est inégalité Nord globale
+
+983
+00:35:37,500 --> 00:35:40,200
+Sud globale ou c'est le Nord global qui
+
+984
+00:35:40,200 --> 00:35:45,200
+va fournir ces données ces données de de
+
+985
+00:35:45,200 --> 00:35:46,880
+logiciels
+
+986
+00:35:46,880 --> 00:35:50,460
+participatif de de localisation de
+
+987
+00:35:50,460 --> 00:35:52,700
+phénomènes moi j'ai participé à un
+
+988
+00:35:52,700 --> 00:35:55,920
+marathon d'Open StreetMap sur Madagascar
+
+989
+00:35:55,920 --> 00:35:58,440
+ou c'est nous qui localiseions certains
+
+990
+00:35:58,440 --> 00:35:59,300
+éléments
+
+991
+00:35:59,300 --> 00:36:01,680
+tout ça tout ça c'est merveilleux mais
+
+992
+00:36:01,680 --> 00:36:03,359
+c'est nous qui sommes en train de
+
+993
+00:36:03,359 --> 00:36:06,240
+construire l'information et même si ce
+
+994
+00:36:06,240 --> 00:36:08,880
+Sud global a accès à internet utilise
+
+995
+00:36:08,880 --> 00:36:10,619
+internet il a accès à des informations
+
+996
+00:36:10,619 --> 00:36:13,440
+que nous nous nourrissons et donc ça sa
+
+997
+00:36:13,440 --> 00:36:15,839
+fonctionne vraiment sur ce colonialisme
+
+998
+00:36:15,839 --> 00:36:19,280
+numérique de l'information et c'est à
+
+999
+00:36:19,280 --> 00:36:21,599
+c'est totalement sous éclairé par nous
+
+1000
+00:36:21,599 --> 00:36:24,000
+Wikipédia c'est internet disponible pour
+
+1001
+00:36:24,000 --> 00:36:25,500
+nous c'est une c'est le rêve de
+
+1002
+00:36:25,500 --> 00:36:27,420
+l'encyclopédie générale c'est
+
+1003
+00:36:27,420 --> 00:36:30,240
+merveilleux mais voilà Wikipédia ça
+
+1004
+00:36:30,240 --> 00:36:32,220
+montre montre notre point de vue sur le
+
+1005
+00:36:32,220 --> 00:36:33,619
+monde et il s'agit aujourd'hui de
+
+1006
+00:36:33,619 --> 00:36:36,660
+découdre de déconstruire ses discours en
+
+1007
+00:36:36,660 --> 00:36:38,960
+tout cas d'en prendre conscience et de
+
+1008
+00:36:38,960 --> 00:36:43,320
+d'engager ou de enfin je sais pas dire
+
+1009
+00:36:43,320 --> 00:36:45,359
+ce qui existe et ce qu'on peut et est-ce
+
+1010
+00:36:45,359 --> 00:36:46,560
+qu'on peut mais en tout cas de
+
+1011
+00:36:46,560 --> 00:36:49,140
+questionner le fait que le sud global ne
+
+1012
+00:36:49,140 --> 00:36:51,000
+contribue pas à la construction de notre
+
+1013
+00:36:51,000 --> 00:36:53,099
+information géographique une très très
+
+1014
+00:36:53,099 --> 00:36:54,180
+peu
+
+1015
+00:36:54,180 --> 00:36:56,520
+il y a des outils toujours dans le
+
+1016
+00:36:56,520 --> 00:36:58,260
+domaine numérique et dans le domaine
+
+1017
+00:36:58,260 --> 00:37:01,260
+algorithmique il y a des outils dont on
+
+1018
+00:37:01,260 --> 00:37:02,280
+dispose mais évidemment il faut déjà
+
+1019
+00:37:02,280 --> 00:37:03,660
+probablement être familier avec la
+
+1020
+00:37:03,660 --> 00:37:04,619
+question pour non seulement ces
+
+1021
+00:37:04,619 --> 00:37:06,359
+appropriés mais qui permettent
+
+1022
+00:37:06,359 --> 00:37:07,859
+finalement de reprendre certaines formes
+
+1023
+00:37:07,859 --> 00:37:10,560
+de puissance sur ma sur son espace
+
+1024
+00:37:10,560 --> 00:37:13,260
+géographique et sur et sur les autres
+
+1025
+00:37:13,260 --> 00:37:14,820
+aussi en tout cas sur sur ceux qui
+
+1026
+00:37:14,820 --> 00:37:15,839
+voudraient dominer l'espace géographique
+
+1027
+00:37:15,839 --> 00:37:17,820
+notamment je crois que c'était l'année
+
+1028
+00:37:17,820 --> 00:37:18,960
+dernière c'était un peu la mode il y
+
+1029
+00:37:18,960 --> 00:37:20,700
+avait cette possibilité de suivre je
+
+1030
+00:37:20,700 --> 00:37:21,480
+crois que c'était les déplacements de
+
+1031
+00:37:21,480 --> 00:37:22,980
+style de Bernard Arnault dans du job de
+
+1032
+00:37:22,980 --> 00:37:24,660
+Bernard Arnault parce qu'il y avait les
+
+1033
+00:37:24,660 --> 00:37:26,220
+transpondeurs des avions qui doivent
+
+1034
+00:37:26,220 --> 00:37:27,839
+forcément déclarer leur plan de vol et
+
+1035
+00:37:27,839 --> 00:37:28,859
+du coup vous pouvez voir où est-ce qu'il
+
+1036
+00:37:28,859 --> 00:37:30,839
+se rendait etc ou dans une moindre
+
+1037
+00:37:30,839 --> 00:37:32,099
+mesure on peut aussi voir le déplacement
+
+1038
+00:37:32,099 --> 00:37:34,980
+des navires en général par exemple c'est
+
+1039
+00:37:34,980 --> 00:37:36,119
+une manière de voir aussi le déplacement
+
+1040
+00:37:36,119 --> 00:37:38,280
+des navires de la de la flotte russe etc
+
+1041
+00:37:38,280 --> 00:37:40,320
+le fait de pouvoir s'approprier ces
+
+1042
+00:37:40,320 --> 00:37:42,119
+outils numériques est-ce que c'est aussi
+
+1043
+00:37:42,119 --> 00:37:43,500
+le fait un peu de pouvoir peut-être se
+
+1044
+00:37:43,500 --> 00:37:45,000
+familiariser avec l'outil géographique
+
+1045
+00:37:45,000 --> 00:37:46,619
+et ne pas leur laisser le monopole
+
+1046
+00:37:46,619 --> 00:37:48,660
+forcément à des acteurs éthiques
+
+1047
+00:37:48,660 --> 00:37:50,839
+notamment absolument
+
+1048
+00:37:50,839 --> 00:37:52,980
+tous ces projets il y en a beaucoup qui
+
+1049
+00:37:52,980 --> 00:37:56,060
+émanent de l'Amérique du Sud
+
+1050
+00:37:57,320 --> 00:37:59,480
+son mari a des formations
+
+1051
+00:37:59,480 --> 00:38:02,700
+vous avez par exemple eau de Vidal qui a
+
+1052
+00:38:02,700 --> 00:38:04,140
+documenté comment en Malaisie des
+
+1053
+00:38:04,140 --> 00:38:06,060
+ateliers de cartographie pendant
+
+1054
+00:38:06,060 --> 00:38:10,440
+lesquels les groupes des groupes qui
+
+1055
+00:38:10,440 --> 00:38:12,540
+subissent par exemple qui vivent au
+
+1056
+00:38:12,540 --> 00:38:15,180
+milieu d'un parc naturel qui sont privés
+
+1057
+00:38:15,180 --> 00:38:17,040
+de l'espace qui leur permettrait
+
+1058
+00:38:17,040 --> 00:38:20,099
+d'assurer leur autonomie alimentaire ces
+
+1059
+00:38:20,099 --> 00:38:23,240
+groupes là sont formés l'usage du GPS
+
+1060
+00:38:23,240 --> 00:38:27,140
+déjà conçoivent des cartes des cartes
+
+1061
+00:38:27,140 --> 00:38:29,760
+levées à la main de leur connaissance
+
+1062
+00:38:29,760 --> 00:38:32,820
+profonde de l'environnement ensuite vont
+
+1063
+00:38:32,820 --> 00:38:34,320
+aller sur le terrain vont exactement
+
+1064
+00:38:34,320 --> 00:38:36,660
+localiser les éléments et vont produire
+
+1065
+00:38:36,660 --> 00:38:38,880
+des cartes numériques voilà et là et là
+
+1066
+00:38:38,880 --> 00:38:40,740
+vous avez une une courro-production de
+
+1067
+00:38:40,740 --> 00:38:42,720
+l'information de toute façon mais vous
+
+1068
+00:38:42,720 --> 00:38:44,940
+avez aussi un impawamel comme on dit si
+
+1069
+00:38:44,940 --> 00:38:46,940
+bien en français deux personnes qui vont
+
+1070
+00:38:46,940 --> 00:38:49,920
+pouvoir disposer d'outils d'outils
+
+1071
+00:38:49,920 --> 00:38:52,020
+techniques de pointes pour pouvoir
+
+1072
+00:38:52,020 --> 00:38:54,079
+discuter
+
+1073
+00:38:54,079 --> 00:38:58,500
+justement de d'égal à égal dans dans ce
+
+1074
+00:38:58,500 --> 00:38:59,540
+monde
+
+1075
+00:38:59,540 --> 00:39:01,740
+imprégné de culture
+
+1076
+00:39:01,740 --> 00:39:02,900
+occidentale
+
+1077
+00:39:02,900 --> 00:39:05,400
+qui se décline culture qui se décline
+
+1078
+00:39:05,400 --> 00:39:08,160
+dans une certaine hégémonie politique et
+
+1079
+00:39:08,160 --> 00:39:10,380
+économique bien sûr et vous avez un peu
+
+1080
+00:39:10,380 --> 00:39:13,740
+souligné le fait que la carte peut être
+
+1081
+00:39:13,740 --> 00:39:16,260
+sujette à manipulation notamment parce
+
+1082
+00:39:16,260 --> 00:39:17,400
+que vous avez dit moi ça me fait penser
+
+1083
+00:39:17,400 --> 00:39:18,980
+pendant
+
+1084
+00:39:18,980 --> 00:39:22,260
+pendant la période où la ZAD était
+
+1085
+00:39:22,260 --> 00:39:23,359
+menacée
+
+1086
+00:39:23,359 --> 00:39:26,720
+il y a notamment l'état qui a organisé
+
+1087
+00:39:26,720 --> 00:39:30,300
+c'était un référendum mais l'échelle qui
+
+1088
+00:39:30,300 --> 00:39:31,440
+avait été choisie est une échelle
+
+1089
+00:39:31,440 --> 00:39:32,460
+tellement trompeuse je sais pas si vous
+
+1090
+00:39:32,460 --> 00:39:34,619
+aviez pu suivre ça mais quand on regarde
+
+1091
+00:39:34,619 --> 00:39:36,119
+effectivement la cartographie a permis
+
+1092
+00:39:36,119 --> 00:39:37,800
+aussi ou la contre cartographie même si
+
+1093
+00:39:37,800 --> 00:39:38,579
+vous l'appelez pas comme ça à l'époque
+
+1094
+00:39:38,579 --> 00:39:40,560
+mais la contre cartographie faite par
+
+1095
+00:39:40,560 --> 00:39:43,619
+des par des gens bien nous a permis un
+
+1096
+00:39:43,619 --> 00:39:45,060
+peu de voir la manipulation vraiment
+
+1097
+00:39:45,060 --> 00:39:47,700
+éontée du gouvernement c'était dans une
+
+1098
+00:39:47,700 --> 00:39:48,660
+échelle à une échelle très localisée
+
+1099
+00:39:48,660 --> 00:39:50,339
+toutes les communes en tout cas toutes
+
+1100
+00:39:50,339 --> 00:39:51,960
+les circonscriptions directement
+
+1101
+00:39:51,960 --> 00:39:54,720
+adjacentes à la zone év futur
+
+1102
+00:39:54,720 --> 00:39:57,780
+aéroportuaire était contre le projet à
+
+1103
+00:39:57,780 --> 00:39:59,339
+l'échelle départementale toute la
+
+1104
+00:39:59,339 --> 00:40:00,180
+Loire-Atlantique était contre le projet
+
+1105
+00:40:00,180 --> 00:40:03,359
+et l'État a inventé une circonscription
+
+1106
+00:40:03,359 --> 00:40:06,060
+administrative qui n'existait pas et a
+
+1107
+00:40:06,060 --> 00:40:08,579
+choisi le deuxième et troisième cercle
+
+1108
+00:40:08,579 --> 00:40:10,500
+de village autour de la zone concernée
+
+1109
+00:40:10,500 --> 00:40:11,880
+qui eux du coup n'était pas directement
+
+1110
+00:40:11,880 --> 00:40:14,040
+impacté par les futurs avions qui
+
+1111
+00:40:14,040 --> 00:40:16,200
+pourraient passer mais était aussi des
+
+1112
+00:40:16,200 --> 00:40:17,220
+zones très sinistrées du coup vous
+
+1113
+00:40:17,220 --> 00:40:18,900
+voulez du travail et c'était la seule
+
+1114
+00:40:18,900 --> 00:40:20,520
+espace géographique la seule l'échelle
+
+1115
+00:40:20,520 --> 00:40:22,380
+qui permettait que le vote pour le oui
+
+1116
+00:40:22,380 --> 00:40:24,119
+pour l'aéroport puisse le remporter et
+
+1117
+00:40:24,119 --> 00:40:25,200
+donc l'étape il va falloir ça nous
+
+1118
+00:40:25,200 --> 00:40:25,920
+allons vous voyez finalement la
+
+1119
+00:40:25,920 --> 00:40:27,060
+démocratie c'est les gens ont voté oui
+
+1120
+00:40:27,060 --> 00:40:29,160
+alors que si on prenait l'échelle locale
+
+1121
+00:40:29,160 --> 00:40:31,380
+réelle et j'en étais contre la plus
+
+1122
+00:40:31,380 --> 00:40:33,079
+générale les gens étaient contre aussi
+
+1123
+00:40:33,079 --> 00:40:35,400
+la tyrannie de la majorité de toute
+
+1124
+00:40:35,400 --> 00:40:37,740
+façon et ça montre combien les cartes
+
+1125
+00:40:37,740 --> 00:40:39,599
+vous permettent de jouer sur l'échelle
+
+1126
+00:40:39,599 --> 00:40:41,400
+vous permettre de jouer sur la
+
+1127
+00:40:41,400 --> 00:40:43,079
+prospection la projection et comment
+
+1128
+00:40:43,079 --> 00:40:45,060
+vous choisissez les éléments que vous
+
+1129
+00:40:45,060 --> 00:40:47,040
+avez vous représentez c'est un très bel
+
+1130
+00:40:47,040 --> 00:40:49,320
+exemple c'est la porte ouverte à de
+
+1131
+00:40:49,320 --> 00:40:50,960
+nombreuses manipulations
+
+1132
+00:40:50,960 --> 00:40:53,460
+j'ai montré la semaine dernière j'avais
+
+1133
+00:40:53,460 --> 00:40:54,839
+un atelier avec des élèves et je leur
+
+1134
+00:40:54,839 --> 00:40:58,260
+montrais dans ce fameux ouvrage de Marc
+
+1135
+00:40:58,260 --> 00:40:59,820
+montmonnier comment mentir avec les
+
+1136
+00:40:59,820 --> 00:41:01,880
+cartes l'exemple de
+
+1137
+00:41:01,880 --> 00:41:06,920
+l'épidémie de choléra en à Londres
+
+1138
+00:41:06,920 --> 00:41:10,020
+c'était en 18 je sais pas je crois
+
+1139
+00:41:10,020 --> 00:41:12,720
+autour des années 1860 c'est un médecin
+
+1140
+00:41:12,720 --> 00:41:15,720
+qui lui constate que c'est un puits
+
+1141
+00:41:15,720 --> 00:41:18,720
+particulier qui est contaminé puisqu'il
+
+1142
+00:41:18,720 --> 00:41:21,540
+a recensé tous les cas de décès autour
+
+1143
+00:41:21,540 --> 00:41:23,220
+de ce puits et c'est parce qu'il fait
+
+1144
+00:41:23,220 --> 00:41:25,440
+une carte précise avec des points qu'il
+
+1145
+00:41:25,440 --> 00:41:27,300
+arrive à déterminer que le problème
+
+1146
+00:41:27,300 --> 00:41:29,900
+vient de ce bruit on ferme ce puits et
+
+1147
+00:41:29,900 --> 00:41:33,500
+les contaminations enfin les décès
+
+1148
+00:41:33,500 --> 00:41:36,660
+chutent et si lui il avait choisi une
+
+1149
+00:41:36,660 --> 00:41:39,020
+autre discrimination de l'information
+
+1150
+00:41:39,020 --> 00:41:42,420
+mon Monier montre que ma on aurait eu
+
+1151
+00:41:42,420 --> 00:41:46,020
+des des zones des plages colorées à
+
+1152
+00:41:46,020 --> 00:41:47,339
+d'autres endroits on n'aurait jamais pu
+
+1153
+00:41:47,339 --> 00:41:49,440
+retrouver l'endroit précis de cette
+
+1154
+00:41:49,440 --> 00:41:52,079
+contamination et ça montre que vous
+
+1155
+00:41:52,079 --> 00:41:54,300
+pouvez faire ce que vous voulez avec les
+
+1156
+00:41:54,300 --> 00:41:56,220
+cartes à même avec la meilleure volonté
+
+1157
+00:41:56,220 --> 00:41:58,640
+du monde
+
+1158
+00:41:58,800 --> 00:42:00,720
+un fortiori avec des intentions
+
+1159
+00:42:00,720 --> 00:42:03,859
+politiques bien sûr
+
+1160
+00:42:06,960 --> 00:42:10,079
+c'est très fréquent je pense je pense
+
+1161
+00:42:10,079 --> 00:42:12,320
+aux exemples de l'autre livre aussi ou
+
+1162
+00:42:12,320 --> 00:42:15,720
+pour des propos électoraux vous
+
+1163
+00:42:15,720 --> 00:42:17,240
+procéderez un nouveau
+
+1164
+00:42:17,240 --> 00:42:18,800
+découpage
+
+1165
+00:42:18,800 --> 00:42:22,460
+administratif et
+
+1166
+00:42:22,460 --> 00:42:24,780
+enfin pour il y a tellement de d'emplois
+
+1167
+00:42:24,780 --> 00:42:27,900
+possible de l'outil cartographique pour
+
+1168
+00:42:27,900 --> 00:42:30,180
+porter votre propos et défendre votre
+
+1169
+00:42:30,180 --> 00:42:35,960
+cause et en tout cas vous votre intérêt
+
+1170
+00:42:36,000 --> 00:42:38,520
+et donc si si votre âge c'est quoi ce
+
+1171
+00:42:38,520 --> 00:42:39,660
+que vous dites que c'est un Anti-Atlas
+
+1172
+00:42:39,660 --> 00:42:41,460
+ou un contrat classe qu'est-ce que ça
+
+1173
+00:42:41,460 --> 00:42:43,260
+serait oui alors c'est amusant parce que
+
+1174
+00:42:43,260 --> 00:42:44,820
+le format il est tout petit donc c'est
+
+1175
+00:42:44,820 --> 00:42:47,460
+vrai que le format anglais donc paru en
+
+1176
+00:42:47,460 --> 00:42:51,000
+2018 des espèces Atlas lui joue
+
+1177
+00:42:51,000 --> 00:42:53,339
+justement sur la nature de l'Atlas il
+
+1178
+00:42:53,339 --> 00:42:55,200
+est très grand il est très lourd il pèse
+
+1179
+00:42:55,200 --> 00:42:59,460
+2 kg 250 là j'ai ce petit atlas dans ma
+
+1180
+00:42:59,460 --> 00:43:02,460
+valise il est déjà bien lourd et l'Atlas
+
+1181
+00:43:02,460 --> 00:43:04,680
+c'est quoi ben c'est la représentation
+
+1182
+00:43:04,680 --> 00:43:07,160
+du monde selon les yeux du pouvoir
+
+1183
+00:43:07,160 --> 00:43:10,079
+hégémonique du moment ça a servi à ça ça
+
+1184
+00:43:10,079 --> 00:43:12,319
+a montré à
+
+1185
+00:43:12,319 --> 00:43:15,720
+montrer que l'Occident en fait était
+
+1186
+00:43:15,720 --> 00:43:19,079
+maître du monde et décidait de la forme
+
+1187
+00:43:19,079 --> 00:43:20,819
+qu'il devait avoir dans nos têtes et
+
+1188
+00:43:20,819 --> 00:43:22,980
+alors ceci n'est pas un atlas c'est
+
+1189
+00:43:22,980 --> 00:43:25,980
+beaucoup plus humble et ça part d'en bas
+
+1190
+00:43:25,980 --> 00:43:28,880
+c'est c'est très horizontal c'est
+
+1191
+00:43:28,880 --> 00:43:32,460
+nous vous moi nous faisons des cartes et
+
+1192
+00:43:32,460 --> 00:43:35,940
+nous montrons sur le papier comment
+
+1193
+00:43:35,940 --> 00:43:39,380
+ce qui se passe déjà et pourquoi
+
+1194
+00:43:39,380 --> 00:43:41,760
+expliquons pourquoi ce n'est pas ça
+
+1195
+00:43:41,760 --> 00:43:43,920
+devrait être autrement et pourquoi nous
+
+1196
+00:43:43,920 --> 00:43:46,440
+devons lutter donc c'est pour ça que
+
+1197
+00:43:46,440 --> 00:43:48,359
+c'est vraiment devenu un outil de lutte
+
+1198
+00:43:48,359 --> 00:43:50,700
+entre nos mains donc c'est pour ça nous
+
+1199
+00:43:50,700 --> 00:43:52,440
+disons avec Benjamin Benjamin
+
+1200
+00:43:52,440 --> 00:43:54,240
+rouléditeur c'est un livre pratique
+
+1201
+00:43:54,240 --> 00:43:56,700
+pourquoi parce qu'il a aussi ce petit ce
+
+1202
+00:43:56,700 --> 00:43:58,500
+petit manuel de cartographie donc là
+
+1203
+00:43:58,500 --> 00:43:59,640
+j'ai recensé tout ce qui était
+
+1204
+00:43:59,640 --> 00:44:00,800
+disponible
+
+1205
+00:44:00,800 --> 00:44:03,420
+et produit par les personnes qui font de
+
+1206
+00:44:03,420 --> 00:44:05,640
+la cartographie critique collective mais
+
+1207
+00:44:05,640 --> 00:44:07,380
+je les synthétisé dans ce manuel et il
+
+1208
+00:44:07,380 --> 00:44:09,660
+est destiné à être emmené dans votre sac
+
+1209
+00:44:09,660 --> 00:44:10,980
+lorsque vous faites un atelier
+
+1210
+00:44:10,980 --> 00:44:13,940
+collaboratif avec beaucoup de conseils
+
+1211
+00:44:13,940 --> 00:44:16,500
+dont on fera ce qu'on voudra mais des
+
+1212
+00:44:16,500 --> 00:44:19,079
+conseils de bon sens je pense et nourri
+
+1213
+00:44:19,079 --> 00:44:21,480
+de l'expérience de milliers de personnes
+
+1214
+00:44:21,480 --> 00:44:24,780
+à travers le monde donc nous avons fait
+
+1215
+00:44:24,780 --> 00:44:27,839
+un attelage enfin proposons un atlas en
+
+1216
+00:44:27,839 --> 00:44:29,760
+français donc il n'y a plus que 20
+
+1217
+00:44:29,760 --> 00:44:31,859
+contributions parce que dans l'ouvrage
+
+1218
+00:44:31,859 --> 00:44:33,540
+anglais en anglais en tout cas il y en a
+
+1219
+00:44:33,540 --> 00:44:35,520
+40 et ça aurait fait un livre très très
+
+1220
+00:44:35,520 --> 00:44:37,700
+lourd il faudrait un deuxième livre qui
+
+1221
+00:44:37,700 --> 00:44:40,200
+qui montre les autres contributions qui
+
+1222
+00:44:40,200 --> 00:44:42,720
+sont tout aussi intéressantes mais cela
+
+1223
+00:44:42,720 --> 00:44:46,319
+couvre absolument tout toute la terre et
+
+1224
+00:44:46,319 --> 00:44:48,000
+c'est ça qui est fabuleux donc quand
+
+1225
+00:44:48,000 --> 00:44:49,740
+c'est vrai une Halda qui est
+
+1226
+00:44:49,740 --> 00:44:51,119
+l'initiateur du projet je crois que
+
+1227
+00:44:51,119 --> 00:44:53,099
+c'était en 2015 fait un appel dans le
+
+1228
+00:44:53,099 --> 00:44:54,839
+milieu de la géographie et des
+
+1229
+00:44:54,839 --> 00:44:56,819
+activistes pour concevoir le premier
+
+1230
+00:44:56,819 --> 00:44:59,339
+livre il reçoit des centaines et des
+
+1231
+00:44:59,339 --> 00:45:00,839
+centaines de propositions il doit
+
+1232
+00:45:00,839 --> 00:45:02,579
+lui-même avec son équipe faire une
+
+1233
+00:45:02,579 --> 00:45:05,339
+sélection et il en reste 40 et nous nous
+
+1234
+00:45:05,339 --> 00:45:08,339
+réduisons à 20 pour l'instant mais elle
+
+1235
+00:45:08,339 --> 00:45:12,079
+se valent absolument toutes et
+
+1236
+00:45:12,079 --> 00:45:14,880
+ça je le dis par ailleurs il y avait un
+
+1237
+00:45:14,880 --> 00:45:16,200
+petit noyau au début c'est les
+
+1238
+00:45:16,200 --> 00:45:18,300
+orangstango donc c'est le nom du groupe
+
+1239
+00:45:18,300 --> 00:45:20,460
+qui est devenu Orango tango plus et
+
+1240
+00:45:20,460 --> 00:45:22,020
+aujourd'hui c'est presque Orango tango
+
+1241
+00:45:22,020 --> 00:45:24,180
+international puisqu'il a la version
+
+1242
+00:45:24,180 --> 00:45:26,900
+française il est question d'une version
+
+1243
+00:45:26,900 --> 00:45:30,800
+en espagnol à présent voilà donc
+
+1244
+00:45:30,800 --> 00:45:33,119
+faisons des ronds dans l'eau de plus en
+
+1245
+00:45:33,119 --> 00:45:34,560
+plus grand de plus en plus grand et
+
+1246
+00:45:34,560 --> 00:45:37,260
+pourquoi parce que ça répond en fait ça
+
+1247
+00:45:37,260 --> 00:45:39,359
+satisfait une curiosité générale par
+
+1248
+00:45:39,359 --> 00:45:40,940
+rapport à la carte
+
+1249
+00:45:40,940 --> 00:45:43,079
+n'importe quel documentaire aujourd'hui
+
+1250
+00:45:43,079 --> 00:45:45,000
+nous présente des images prises par des
+
+1251
+00:45:45,000 --> 00:45:47,520
+drones cette aire vue d'en haut nous
+
+1252
+00:45:47,520 --> 00:45:50,040
+sommes tellement curieuses de de toutes
+
+1253
+00:45:50,040 --> 00:45:52,560
+ces images là mais c'est ça correspond
+
+1254
+00:45:52,560 --> 00:45:56,599
+aussi à un besoin un besoin de qui a
+
+1255
+00:45:56,599 --> 00:45:59,040
+très à l'espace à notre rapport à
+
+1256
+00:45:59,040 --> 00:46:01,619
+l'espace de nous asseoir dans l'espace
+
+1257
+00:46:01,619 --> 00:46:04,260
+et de bien mesurer et de bien prendre
+
+1258
+00:46:04,260 --> 00:46:05,720
+conscience de
+
+1259
+00:46:05,720 --> 00:46:08,060
+de toutes ces
+
+1260
+00:46:08,060 --> 00:46:10,800
+de notre vie donc on revient à Elysée
+
+1261
+00:46:10,800 --> 00:46:13,260
+reclus qu'il pour lui dire les hommes se
+
+1262
+00:46:13,260 --> 00:46:16,980
+sont des animalcules c'est donc le grand
+
+1263
+00:46:16,980 --> 00:46:19,460
+géographe anarchiste
+
+1264
+00:46:19,460 --> 00:46:21,660
+merveilleux absolument on dit de lui
+
+1265
+00:46:21,660 --> 00:46:22,920
+qu'il est première écologiste pourquoi
+
+1266
+00:46:22,920 --> 00:46:24,240
+parce qu'il dit les hommes sont des
+
+1267
+00:46:24,240 --> 00:46:26,400
+petits animalcules à la surface de la
+
+1268
+00:46:26,400 --> 00:46:28,980
+terre et ils sont juste un élément du
+
+1269
+00:46:28,980 --> 00:46:32,400
+système et voilà et là il révolutionne
+
+1270
+00:46:32,400 --> 00:46:34,380
+la géographie quand même en disant ben
+
+1271
+00:46:34,380 --> 00:46:36,359
+non nous
+
+1272
+00:46:36,359 --> 00:46:39,180
+on est en fait partie de cet
+
+1273
+00:46:39,180 --> 00:46:41,339
+environnement c'est en ça qu'il est
+
+1274
+00:46:41,339 --> 00:46:42,839
+écologiste c'est en ça qu'il est aussi
+
+1275
+00:46:42,839 --> 00:46:46,500
+anti colonialiste lui va avec son esprit
+
+1276
+00:46:46,500 --> 00:46:48,240
+du temps on a pu le critiquer pour
+
+1277
+00:46:48,240 --> 00:46:49,740
+beaucoup de choses mais avec son esprit
+
+1278
+00:46:49,740 --> 00:46:51,359
+du temps il dit mais attention toutes
+
+1279
+00:46:51,359 --> 00:46:53,160
+ces cultures toutes ces toutes ces pays
+
+1280
+00:46:53,160 --> 00:46:54,900
+que nous avons colonisés en fait elles
+
+1281
+00:46:54,900 --> 00:46:57,240
+sont absolument à traiter sur le même
+
+1282
+00:46:57,240 --> 00:47:02,460
+pied que la nôtre et c'est ces conseils
+
+1283
+00:47:02,460 --> 00:47:04,980
+sont vraiment à méditer dans le cadre de
+
+1284
+00:47:04,980 --> 00:47:09,359
+la scolaire qui est un peu notre projet
+
+1285
+00:47:09,359 --> 00:47:11,280
+utopique de d'essayer de représenter ce
+
+1286
+00:47:11,280 --> 00:47:13,619
+que nous nous ne savons pas plutôt que
+
+1287
+00:47:13,619 --> 00:47:16,460
+de représenter ce que nous avons
+
+1288
+00:47:16,460 --> 00:47:20,460
+a été fait une très belle planche sur la
+
+1289
+00:47:20,460 --> 00:47:23,400
+représentation de la terre avant l'image
+
+1290
+00:47:23,400 --> 00:47:27,660
+avant le je dirais le l'image satellite
+
+1291
+00:47:27,660 --> 00:47:30,060
+et puis comment
+
+1292
+00:47:30,060 --> 00:47:32,700
+conserver de l'imaginaire une fois que
+
+1293
+00:47:32,700 --> 00:47:33,740
+cette
+
+1294
+00:47:33,740 --> 00:47:37,020
+cette image est apparue c'est à dire
+
+1295
+00:47:37,020 --> 00:47:39,839
+nous a d'une certaine manière obligée à
+
+1296
+00:47:39,839 --> 00:47:41,240
+une vision commune
+
+1297
+00:47:41,240 --> 00:47:43,859
+alors qu'avant les cartes du monde
+
+1298
+00:47:43,859 --> 00:47:47,460
+étaient bien entendu des cartes
+
+1299
+00:47:47,460 --> 00:47:48,960
+peut-être scientifique mais en même
+
+1300
+00:47:48,960 --> 00:47:51,000
+temps imaginez quand même alors fuite
+
+1301
+00:47:51,000 --> 00:47:52,819
+oui qu'est-ce que la science
+
+1302
+00:47:52,819 --> 00:47:54,900
+l'imaginaire après après la science
+
+1303
+00:47:54,900 --> 00:47:57,060
+plutôt ça la question qui m'intéresse
+
+1304
+00:47:57,060 --> 00:48:00,119
+après il faut réouvrir les portes donc
+
+1305
+00:48:00,119 --> 00:48:02,280
+effectivement les cartes les cartes
+
+1306
+00:48:02,280 --> 00:48:04,560
+médiévales tu es dans l'eau donc vous
+
+1307
+00:48:04,560 --> 00:48:05,760
+avez un grand
+
+1308
+00:48:05,760 --> 00:48:07,040
+océan
+
+1309
+00:48:07,040 --> 00:48:10,140
+traversé par des rivières des fleuves en
+
+1310
+00:48:10,140 --> 00:48:13,140
+thé et vous avez l'Europe l'Afrique et
+
+1311
+00:48:13,140 --> 00:48:14,520
+l'Asie voilà mais c'était une
+
+1312
+00:48:14,520 --> 00:48:15,800
+représentation scientifique
+
+1313
+00:48:15,800 --> 00:48:18,180
+correspondant exactement à l'état des
+
+1314
+00:48:18,180 --> 00:48:22,460
+connaissances au 15e siècle encore et
+
+1315
+00:48:22,460 --> 00:48:25,500
+il y a tellement de d'acceptions de
+
+1316
+00:48:25,500 --> 00:48:27,420
+conception différentes de l'espace qui
+
+1317
+00:48:27,420 --> 00:48:29,160
+n'est pas forcément euclidien c'est à
+
+1318
+00:48:29,160 --> 00:48:30,079
+dire que
+
+1319
+00:48:30,079 --> 00:48:32,520
+on mesure on mesure la distance d'un
+
+1320
+00:48:32,520 --> 00:48:34,800
+élément à un autre mais en fait on peut
+
+1321
+00:48:34,800 --> 00:48:36,420
+avoir une toute autre représentation de
+
+1322
+00:48:36,420 --> 00:48:38,160
+l'espace qui serait mobile qui serait
+
+1323
+00:48:38,160 --> 00:48:40,859
+dynamique et bien sûr ça c'est cela
+
+1324
+00:48:40,859 --> 00:48:45,720
+c'est perdu avec cette cette hégémonie
+
+1325
+00:48:45,720 --> 00:48:47,880
+de la représentation occidentale de se
+
+1326
+00:48:47,880 --> 00:48:49,920
+passe et avec le pouvoir que qu'on a eu
+
+1327
+00:48:49,920 --> 00:48:52,079
+les empires coloniaux sur sur les
+
+1328
+00:48:52,079 --> 00:48:53,780
+cultures
+
+1329
+00:48:53,780 --> 00:48:56,880
+dominées mais revenons-y et oui
+
+1330
+00:48:56,880 --> 00:48:58,760
+représenter ce que
+
+1331
+00:48:58,760 --> 00:49:03,119
+ce que nous ne savons pas je me suis
+
+1332
+00:49:03,119 --> 00:49:06,420
+fait prendre donc merci Rudy City de
+
+1333
+00:49:06,420 --> 00:49:10,260
+cette question fascinante moi j'ai été
+
+1334
+00:49:10,260 --> 00:49:11,940
+contactée par récemment par un chercheur
+
+1335
+00:49:11,940 --> 00:49:13,500
+aux États-Unis qui travaillait avec des
+
+1336
+00:49:13,500 --> 00:49:16,319
+enfants aveugles qui m'a envoyé des
+
+1337
+00:49:16,319 --> 00:49:17,880
+images ce sont des représentations
+
+1338
+00:49:17,880 --> 00:49:19,920
+quatre représentations d'enfants
+
+1339
+00:49:19,920 --> 00:49:21,720
+aveugles qui avaient très à l'espace et
+
+1340
+00:49:21,720 --> 00:49:24,359
+un livre paraîtra où il a question posé
+
+1341
+00:49:24,359 --> 00:49:26,420
+la question à plein de personnes de de
+
+1342
+00:49:26,420 --> 00:49:29,160
+discipline différente et j'ai été
+
+1343
+00:49:29,160 --> 00:49:32,339
+incapable de comprendre ce que ces
+
+1344
+00:49:32,339 --> 00:49:33,140
+enfants
+
+1345
+00:49:33,140 --> 00:49:36,240
+produisaient c'est à dire je monte dans
+
+1346
+00:49:36,240 --> 00:49:38,400
+un autobus et bien je vais le
+
+1347
+00:49:38,400 --> 00:49:40,380
+représenter et ça va passer par mes sens
+
+1348
+00:49:40,380 --> 00:49:42,060
+ça va passer par les mains je vais dans
+
+1349
+00:49:42,060 --> 00:49:44,520
+une descendre dans une rivière et bien
+
+1350
+00:49:44,520 --> 00:49:46,440
+croyez moi ce qu'un enfant qui ne voit
+
+1351
+00:49:46,440 --> 00:49:48,900
+pas représente c'est aussi un des
+
+1352
+00:49:48,900 --> 00:49:51,619
+aspects du monde et
+
+1353
+00:49:51,619 --> 00:49:53,880
+vous qui êtes vaillant vous ne savez pas
+
+1354
+00:49:53,880 --> 00:49:55,260
+combien vous êtes tributaire de votre
+
+1355
+00:49:55,260 --> 00:49:58,079
+regard votre regard qui est bien sûr
+
+1356
+00:49:58,079 --> 00:50:00,560
+formaté culturellement
+
+1357
+00:50:00,560 --> 00:50:04,980
+va produire donc nous sommes dans une
+
+1358
+00:50:04,980 --> 00:50:07,980
+sorte brouillard en réalité et nous
+
+1359
+00:50:07,980 --> 00:50:09,660
+avons beaucoup de mal à voir au travers
+
+1360
+00:50:09,660 --> 00:50:11,160
+et c'est pour ça que oui c'est c'est
+
+1361
+00:50:11,160 --> 00:50:14,660
+toutes ces exercices en fait de de
+
+1362
+00:50:14,660 --> 00:50:18,119
+visualisation et de dévisualisation sont
+
+1363
+00:50:18,119 --> 00:50:20,119
+importants passons par d'autres sens
+
+1364
+00:50:20,119 --> 00:50:23,300
+passons inventons d'autres moyens de
+
+1365
+00:50:23,300 --> 00:50:25,920
+d'élargir nos représentations du monde
+
+1366
+00:50:25,920 --> 00:50:27,960
+et surtout bien sûr de questionner tout
+
+1367
+00:50:27,960 --> 00:50:30,900
+ce qui tout ce qui fait frein tous ces
+
+1368
+00:50:30,900 --> 00:50:34,020
+filtres que nous nous que nous acceptons
+
+1369
+00:50:34,020 --> 00:50:37,490
+de nous poser absolument
+
+1370
+00:50:37,490 --> 00:50:40,530
+[Musique]
+
+1371
+00:50:45,420 --> 00:50:48,189
+[Musique]
+
